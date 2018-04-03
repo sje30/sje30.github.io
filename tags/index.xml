@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>http://tummychow.github.io/lanyon-hugo/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 28 Sep 2016 14:48:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://tummychow.github.io/lanyon-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Latex</title>
+      <link>http://tummychow.github.io/lanyon-hugo/tags/latex/</link>
+      <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/tags/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plot</title>
+      <link>http://tummychow.github.io/lanyon-hugo/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>http://tummychow.github.io/lanyon-hugo/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>http://tummychow.github.io/lanyon-hugo/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>http://tummychow.github.io/lanyon-hugo/tags/tag1/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>http://tummychow.github.io/lanyon-hugo/tags/tag2/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

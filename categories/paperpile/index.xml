@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paperpile on </title>
+    <link>http://tummychow.github.io/lanyon-hugo/categories/paperpile/</link>
+    <description>Recent content in Paperpile on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tummychow.github.io/lanyon-hugo/categories/paperpile/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paperpile at Cambridge Maths Faculty</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/paperpile-at-cambridge-maths-faculty/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/paperpile-at-cambridge-maths-faculty/</guid>
+      <description>Paperpile at Cambridge Maths Faculty The Faculty of Mathematics at Cambridge has bought a site licence for one year to the Paperpile software for managing PDFs. I&amp;rsquo;ve written a short overview of why it might be useful for your research.
+To use the Cambridge maths site licence for paperpile, you will need to create a new google account that is linked to a @maths.cam.ac.uk address. Most researchers in the Mathematics Faculty should have a working email of the form crsid@maths.</description>
+    </item>
+    
+  </channel>
+</rss>

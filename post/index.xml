@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://tummychow.github.io/lanyon-hugo/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tummychow.github.io/lanyon-hugo/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Paperpile at Cambridge Maths Faculty</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/paperpile-at-cambridge-maths-faculty/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/paperpile-at-cambridge-maths-faculty/</guid>
+      <description>Paperpile at Cambridge Maths Faculty The Faculty of Mathematics at Cambridge has bought a site licence for one year to the Paperpile software for managing PDFs. I&amp;rsquo;ve written a short overview of why it might be useful for your research.
+To use the Cambridge maths site licence for paperpile, you will need to create a new google account that is linked to a @maths.cam.ac.uk address. Most researchers in the Mathematics Faculty should have a working email of the form crsid@maths.</description>
+    </item>
+    
+    <item>
+      <title>Why paperpile?</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/why-paperpile/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/why-paperpile/</guid>
+      <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&amp;rsquo;ve found very useful is Paperpile. There is a snappy 2 1&amp;frasl;2 minute video that shows it in action:</description>
+    </item>
+    
+    <item>
+      <title>A brief introduction to reproducible research and open science</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/a-brief-introduction-to-reproducible-research-and-open-science/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
+      <description>[The following was written for the British Neuroscience Association]
+A brief introduction to reproducible research and open science
+At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&amp;rsquo;s work? That&amp;rsquo;s certainly the theory when writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip; Since 2004 we&amp;rsquo;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
+    </item>
+    
+    <item>
+      <title>An interactive introduction to computational neuroscience</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/an-interactive-introduction-to-computational-neuroscience/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/an-interactive-introduction-to-computational-neuroscience/</guid>
+      <description>For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
+Over the last few months, we (mostly Derek Fulton and Paraskevi Mylona) have converted this matlab code to the Julia programming language.</description>
+    </item>
+    
+    <item>
+      <title>Towards standard practice for sharing of code and data in neuroscience</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</guid>
+      <description>Scientists are increasingly dependent on computational techniques to analyse large volumes of data. These computational methods are often tailored to the particular analysis in mind, and as such are valuable research outputs. Furthermore, unlike experimental techniques, computational methods can be easily shared. However, at least in neuroscience, computational methods are not routinely shared upon publication of associated manuscripts.
+To improve this situation, we have worked with the editors of Nature Neuroscience to establish a pilot code review project.</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/a-plain-markdown-post/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/a-plain-markdown-post/</guid>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to LaTeX</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/introduction-to-latex/</link>
+      <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/introduction-to-latex/</guid>
+      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
+Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)
+Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Analysis of Neuroanatomy ebook</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/quantitative-analysis-of-neuroanatomy-ebook/</link>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/quantitative-analysis-of-neuroanatomy-ebook/</guid>
+      <description>On behalf of all the editors, I am pleased to announce the release of our special issue on the Quantitative Analysis of Neuroanatomy. All articles have been published in Frontiers in Neuroanatomy. As of March 2016, all papers are now freely available as an Ebook either in PDF or EPUB format.
+The aim of this Research Topic is to examine theoretical and experimental work directed at a detailed and comprehensive quantitative understanding of neuroanatomy.</description>
+    </item>
+    
+    <item>
+      <title>maps2015 workshop</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/maps2015-workshop/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/maps2015-workshop/</guid>
+      <description>On 7-9 December 2015, we hosted maps2015 in Strasbourg, France. The primary aim of the meeting was to bring together the two communities of theoreticians and experimentalists working on related problems in developmental neurobiology. This was the second meeting that we have hosted on this topic, following on from maps2014.org in Edinburgh. This year the programme took a slightly wider scope: although most talks were related to the development and order in brain maps, we also had several interesting talks including mouse and zebrafish behaviour.</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/first/</link>
+      <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/first/</guid>
+      <description>Content of the file goes here
+here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
+ this is a quote
+ verbatim verbatim     Right Left Center     Long Content To Spread Out the Width Of the Table To See Alignment   Right Left Center   a b c    s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot; x = 10  </description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/hello-r-markdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>http://tummychow.github.io/lanyon-hugo/post/lorem-ipsum/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>http://tummychow.github.io/lanyon-hugo/post/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>
