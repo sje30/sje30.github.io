@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag1 on </title>
-    <link>http://sje30.github.io/tags/tag1/</link>
+    <link>https://sje30.github.io/tags/tag1/</link>
     <description>Recent content in Tag1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 13 Mar 2016 17:45:42 +0000</lastBuildDate>
     
-	<atom:link href="http://sje30.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sje30.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>maps2015 workshop</title>
-      <link>http://sje30.github.io/post/maps2015-workshop/</link>
+      <link>https://sje30.github.io/post/maps2015-workshop/</link>
       <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
       
-      <guid>http://sje30.github.io/post/maps2015-workshop/</guid>
+      <guid>https://sje30.github.io/post/maps2015-workshop/</guid>
       <description>On 7-9 December 2015, we hosted maps2015 in Strasbourg, France. The primary aim of the meeting was to bring together the two communities of theoreticians and experimentalists working on related problems in developmental neurobiology. This was the second meeting that we have hosted on this topic, following on from maps2014.org in Edinburgh. This year the programme took a slightly wider scope: although most talks were related to the development and order in brain maps, we also had several interesting talks including mouse and zebrafish behaviour.</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://sje30.github.io/research/</link>
+      <link>https://sje30.github.io/research/</link>
       <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
       
-      <guid>http://sje30.github.io/research/</guid>
+      <guid>https://sje30.github.io/research/</guid>
       <description> Retinal waves Analysis of neural spike trains Topographic map formation Reproducible research Open access </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://sje30.github.io/post/first/</link>
+      <link>https://sje30.github.io/post/first/</link>
       <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
       
-      <guid>http://sje30.github.io/post/first/</guid>
+      <guid>https://sje30.github.io/post/first/</guid>
       <description>Content of the file goes here
 here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
  this is a quote
