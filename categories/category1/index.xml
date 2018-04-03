@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category1 on </title>
-    <link>http://tummychow.github.io/lanyon-hugo/categories/category1/</link>
+    <link>http://sje30.github.io/categories/category1/</link>
     <description>Recent content in Category1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 02 Mar 2016 14:49:35 +0000</lastBuildDate>
     
-	<atom:link href="http://tummychow.github.io/lanyon-hugo/categories/category1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sje30.github.io/categories/category1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research</title>
-      <link>http://tummychow.github.io/lanyon-hugo/research/</link>
+      <link>http://sje30.github.io/research/</link>
       <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
       
-      <guid>http://tummychow.github.io/lanyon-hugo/research/</guid>
+      <guid>http://sje30.github.io/research/</guid>
       <description> Retinal waves Analysis of neural spike trains Topographic map formation Reproducible research Open access </description>
     </item>
     
     <item>
       <title>first</title>
-      <link>http://tummychow.github.io/lanyon-hugo/post/first/</link>
+      <link>http://sje30.github.io/post/first/</link>
       <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
       
-      <guid>http://tummychow.github.io/lanyon-hugo/post/first/</guid>
+      <guid>http://sje30.github.io/post/first/</guid>
       <description>Content of the file goes here
 here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
  this is a quote
