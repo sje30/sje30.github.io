@@ -18,6 +18,15 @@
           <guid>https://sje30.github.io/post/paperpile-at-cambridge-maths-faculty/</guid>
           <description>
 
+&lt;h3 id=&#34;contents&#34;&gt;Contents&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#paperpile-at-cambridge-maths-faculty&#34;&gt;Paperpile at Cambridge Maths Faculty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#steps&#34;&gt;Steps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#trial-ends-march-2019&#34;&gt;Trial ends March 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#notes&#34;&gt;Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&#34;paperpile-at-cambridge-maths-faculty&#34;&gt;Paperpile at Cambridge Maths Faculty&lt;/h3&gt;
 
 &lt;p&gt;The Faculty of Mathematics at Cambridge has bought a site licence for
@@ -64,6 +73,18 @@ demand within the Maths faculty to commit to a longer-time licence
 agreement.  If you are a user from outside Maths, we would ask you to
 help us evaluate Paperpile, and consider asking your department to
 join any potential new licence in 2019.&lt;/p&gt;
+
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;As of April 2019, the Cambridge University proxy is incompatible
+with Paperpile, as our proxy is outdated.  It will be updated.  In
+the meantime, if you wish to download paywalled journal articles
+from outside the University network, you will need to use the
+&lt;a href=&#34;https://help.uis.cam.ac.uk/service/devices-networks-printing/remote-access/uis-vpn&#34;&gt;University VPN&lt;/a&gt;.  (Without the VPN you can still use Paperpile,
+but it will not be able to download articles that are paywalled.)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
         </item>
       
