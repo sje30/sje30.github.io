@@ -5,10 +5,22 @@
     <link>https://sje30.github.io/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sje30.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>In praise of timers</title>
+      <link>https://sje30.github.io/post/in-praise-of-timers/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sje30.github.io/post/in-praise-of-timers/</guid>
+      <description>Here are speaker timers for the CCBI 2018 symposium. In each case, ten minutes before the end of the time slot, the background changes from green to orange (with one bell). With five minutes to go, the background changes to red (with two bells). At the end of the time slot, three bells sound, and we should move onto the next talk.
+Twenty minute talk
+Fourty minute talk
+Sixty minute talk</description>
+    </item>
     
     <item>
       <title>Paperpile at Cambridge Maths Faculty</title>
