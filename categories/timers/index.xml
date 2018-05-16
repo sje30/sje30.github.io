@@ -16,10 +16,7 @@
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://sje30.github.io/post/in-praise-of-timers/</guid>
-      <description>Here are speaker timers for the CCBI 2018 symposium. In each case, ten minutes before the end of the time slot, the background changes from green to orange (with one bell). With five minutes to go, the background changes to red (with two bells). At the end of the time slot, three bells sound, and we should move onto the next talk.
-Twenty minute talk
-Fourty minute talk
-Sixty minute talk</description>
+      <description>Here are speaker timers for the CCBI 2018 symposium. For the 40&amp;frasl;60 minute talks, ten minutes before the end of the time slot, the background changes from green to orange (with one bell). With five minutes to go, the background changes to red (with two bells). At the end of the time slot, three bells sound, and we should move onto the next talk. (For the twenty minute talks, the splits are 16/2/2 mins).</description>
     </item>
     
   </channel>

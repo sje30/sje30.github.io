@@ -16,13 +16,14 @@
           <pubDate>Thu, 10 May 2018 00:00:00 UTC</pubDate>
           <author>Mark Otto</author>
           <guid>https://sje30.github.io/post/in-praise-of-timers/</guid>
-          <description>&lt;p&gt;Here are speaker timers for the CCBI 2018 symposium.  In each case, ten
-minutes before the end of the time slot, the background changes from
-green to orange (with one bell).  With five minutes to go, the
-background changes to red (with two bells).  At the end of the time
-slot, three bells sound, and we should move onto the next talk.&lt;/p&gt;
+          <description>&lt;p&gt;Here are speaker timers for the CCBI 2018 symposium.  For the &lt;sup&gt;40&lt;/sup&gt;&amp;frasl;&lt;sub&gt;60&lt;/sub&gt;
+minute talks, ten minutes before the end of the time slot, the
+background changes from green to orange (with one bell).  With five
+minutes to go, the background changes to red (with two bells).  At the
+end of the time slot, three bells sound, and we should move onto the
+next talk.  (For the twenty minute talks, the splits are 16/2/2 mins).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=10:00&amp;amp;t2=15:00&amp;amp;t3=20:00&amp;amp;m=%23CCBI18&amp;amp;th=traffic&#34;&gt;Twenty minute talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=16:00&amp;amp;t2=18:00&amp;amp;t3=20:00&amp;amp;m=%23CCBI18&amp;amp;th=traffic&#34;&gt;Twenty minute talk&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=30:00&amp;amp;t2=35:00&amp;amp;t3=40:00&amp;amp;m=%23CCBI18&amp;amp;th=traffic&#34;&gt;Fourty minute talk&lt;/a&gt;&lt;/p&gt;
 
