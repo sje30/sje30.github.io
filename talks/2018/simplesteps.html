@@ -67,7 +67,7 @@ BBSRC, EPSRC, Wellcome Trust, Software Sustainability Institute.
 
 
 &lt;!-- 
-(Last update Mon Nov 12 23:11:37 2018) 
+(Last update Tue Nov 13 10:47:50 2018) 
  --&gt;
 
 
@@ -87,8 +87,8 @@ BBSRC, EPSRC, Wellcome Trust, Software Sustainability Institute.
 # The reproducibility crisis
 
 Many key findings in publications are either not independently
-verified, or fail verification when it is attempted (Baker, 2016) `r
-doi("10.1038/533452a")`.
+verified, or fail verification when it is attempted (Baker, 2016).
+&lt;div style="font-size: 60%; position: absolute; right: 15%;   width: fit-content; height: fit-content; top:95%; z-index:10"&gt;&lt;a href="http://dx.doi.org/10.1038/533452a"&gt;10.1038/533452a&lt;/a&gt;&lt;/div&gt;
 
 &lt;br&gt;
 Duke oncogenomics scandal.  Awesome detective work by Keith Baggerley
@@ -99,7 +99,8 @@ and Kevin Coombes.
 &lt;br&gt;
 &lt;br&gt;
 
-Disclaimer: do I mean "reproducibility" or "replicability" (Barba 2018) &lt;https://arxiv.org/pdf/1802.03311.pdf&gt;
+Disclaimer: do I mean "reproducibility" or "replicability"?
+(Barba 2018) &lt;https://arxiv.org/pdf/1802.03311.pdf&gt;
 
 
 ---
@@ -259,7 +260,7 @@ reproducible review. Journal de la Société Française de Statistique
 See
 &lt;!-- [paper](http://journal-sfds.fr/index.php/J-SFdS/article/view/518/490) --&gt;
 [paper](https://doi.org/10.1101/029348)
-or [code](http://github.com/sje30/eglen2015).
+or [code](http://github.com/sje30/eglen2015).  [Docker image](https://hub.docker.com/r/sje30/eglen2015/).
 
 
 
@@ -283,8 +284,8 @@ or [code](http://github.com/sje30/eglen2015).
 Two hour introduction to computational neuroscience (this Thursday if
 anyone is interested...)
 
-[Binder]()
-[Github]()
+[Binder](https://mybinder.org/v2/gh/sje30/julia-python/master?filepath=Introduction%20to%20Computational%20Neuroscience.ipynb)
+[Github](https://github.com/sje30/julia-python)
 
 ---
 # Find a code buddy
@@ -293,19 +294,26 @@ anyone is interested...)
 a zero if I can't compile the pdf.
 * So, ask someone else if they can run your code.
 * Bioconductor team performs code review
-* Journals code move in this direction
+* Journals gradually moving in this direction
 
 ---
-## Third most important file in github repo
+# Third most important file in github repo?
 
 
+&lt;div style="font-size: 60%; position: absolute; right: 15%;   width: fit-content; height: fit-content; top:95%; z-index:10"&gt;Credit: Arfon Smith&lt;/div&gt;
+
+--
 * First: LICENSE
-* Second: (After Arfon Smith) ???
-* Third: ???
+--
+
+* Second: README.md
+--
+
+* Third: Makefile
 
 
 ---
-## Makefile
+# Make 
 
 .pull-left[
 Make (or SnakeMake) are great at reducing cognitive load.
@@ -371,16 +379,6 @@ p4 = ggplot(mtcars) + geom_bar(aes(carb)) + labs(tag="D")
 ![](simplesteps_files/figure-html/p1-1.png)&lt;!-- --&gt;
 
 
-
-
-
-
----
-# Developments in publishing
-
-Reproducible workflows being evaluated by F1000 and Elife.
-
-
 ---
 # Summary
 
@@ -394,6 +392,7 @@ Reproducible workflows being evaluated by F1000 and Elife.
 
 * Long computation times (CODE CHECK).
 * licensed software complicates everything.
+* Can journals handle reproducible documents?
 * When is the best time to think reproducibly?  
    - Too early (explore  first) 
    - Too late (paper now out)?
