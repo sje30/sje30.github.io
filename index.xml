@@ -65,12 +65,12 @@ managing PDFs.  I&amp;rsquo;ve written a &lt;a href=&#34;https://sje30.github.io
 why it might be useful for your research.&lt;/p&gt;
 
 &lt;p&gt;To use the Cambridge maths site licence for paperpile, you will need
-to create a new google account that is linked to a @maths.cam.ac.uk
-address.  Most researchers in the Mathematics Faculty should have a
-working email of the form &lt;code&gt;crsid@maths.cam.ac.uk&lt;/code&gt; which normally
-redirects to your Hermes (or maths) email.  (If you do not have an
-email address ending in &lt;code&gt;@maths.cam.ac.uk&lt;/code&gt; then contact me with your
-crsid.)&lt;/p&gt;
+to create a new google account that is linked to a @cam.ac.uk or
+a @maths.cam.ac.uk address. &lt;!--                        Most researchers in the Mathematics Faculty --&gt;
+&lt;!-- should have a working email of the form `crsid@maths.cam.ac.uk` which --&gt;
+&lt;!-- normally redirects to your Hermes (or maths) email.  (If you do not --&gt;
+&lt;!-- have an email address ending in `@maths.cam.ac.uk` then contact me --&gt;
+&lt;!-- with your crsid.) --&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
 
@@ -79,13 +79,13 @@ crsid.)&lt;/p&gt;
 and create a new account.  On the second line when it asks &amp;ldquo;Choose
 your username&amp;rdquo; ensure that you click the link underneath the box
 saying &amp;ldquo;I prefer to use my current email address&amp;rdquo; and instead type in
-your &lt;code&gt;crsid@maths.cam.ac.uk&lt;/code&gt; address.&lt;/p&gt;&lt;/li&gt;
+your &lt;code&gt;crsid@cam.ac.uk&lt;/code&gt; address.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Authenticate the google account when you get the link in your maths
 email inbox.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Visit paperpile.com using Chrome browser. In the top right of the
-window - Click &amp;ldquo;Sign in&amp;rdquo;, and sign in with your &lt;code&gt;@maths&lt;/code&gt; google
+window - Click &amp;ldquo;Sign in&amp;rdquo;, and sign in with your &lt;code&gt;@cam.ac.uk&lt;/code&gt; google
 account.  If you have not used paperpile before, it will ask you to
 install the Paperpile extension &amp;ndash; say yes.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -99,21 +99,15 @@ and paperpile buttons on those tabs will still work.&lt;/p&gt;
 
 &lt;p&gt;Please note that this trial is for one year, until end of March 2019.
 This trial should give us enough time whether there is sufficient
-demand within the Maths faculty to commit to a longer-time licence
-agreement.  If you are a user from outside Maths, we would ask you to
-help us evaluate Paperpile, and consider asking your department to
-join any potential new licence in 2019.&lt;/p&gt;
+demand within the Maths faculty and University to commit to a
+longer-time licence agreement.  If you are a user from outside Maths,
+we would ask you to help us evaluate Paperpile, and consider asking
+your department to join any potential new licence in 2019.&lt;/p&gt;
 
 &lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;As of April 2018, the Cambridge University proxy is incompatible
-with Paperpile; our proxy is outdated.  It will be updated.  In
-the meantime, if you wish to download paywalled journal articles
-from outside the University network, you will need to use the
-&lt;a href=&#34;https://help.uis.cam.ac.uk/service/devices-networks-printing/remote-access/uis-vpn&#34;&gt;University VPN&lt;/a&gt;.  (Without the VPN you can still use Paperpile,
-but it will not be able to download articles that are paywalled.)
-&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;As of November 2018, the Paperpile proxy for Cambridge should now work.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
         </item>
