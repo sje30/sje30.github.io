@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paperpile on </title>
-    <link>https://sje30.github.io/categories/paperpile/</link>
-    <description>Recent content in Paperpile on </description>
+    <title>Paperpile on Stephen J Eglen</title>
+    <link>/categories/paperpile/</link>
+    <description>Recent content in Paperpile on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 03 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sje30.github.io/categories/paperpile/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/paperpile/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Paperpile at Cambridge Maths Faculty</title>
-      <link>https://sje30.github.io/post/paperpile-at-cambridge-maths-faculty/</link>
+      <link>/2018/04/03/paperpile-at-cambridge-maths-faculty/</link>
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://sje30.github.io/post/paperpile-at-cambridge-maths-faculty/</guid>
+      <guid>/2018/04/03/paperpile-at-cambridge-maths-faculty/</guid>
       <description>Contents  Paperpile at Cambridge Maths Faculty Steps Trial ends March 2019 Notes  Paperpile at Cambridge Maths Faculty Update: October 2018. You can now use your crsid@cam.ac.uk email address rather than needing an @maths account.
 The Faculty of Mathematics at Cambridge has bought a site licence for one year to the Paperpile software for managing PDFs. I&amp;rsquo;ve written a short overview of why it might be useful for your research.</description>
     </item>
