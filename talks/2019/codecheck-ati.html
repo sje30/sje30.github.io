@@ -65,7 +65,7 @@ Slides: http://bit.ly/eglen2019-ati (CC-BY license)
 Joint work with Daniel Nüst (Muenster).
 
 
-(Last update Mon Feb 11 11:19:15 2019) 
+(Last update Mon Feb 11 13:00:38 2019) 
 
 
 
@@ -120,12 +120,10 @@ Disclaimer: do I mean "reproducibility" or "replicability"
 
 - "Reproducible forever" is a BIG challenge.  My first attempt lasted
   about 6 months. [Dockerhub for
-  waverepo](https://hub.docker.com/r/sje30/waverepo).  Is forever useful?
-
-- Yet more tools required.
+  waverepo](https://hub.docker.com/r/sje30/waverepo).  Is "forever" achievable/useful?
 
 - Interactive approach suitable for shorter jobs.  But how about for
-  long jobs (days--months?)
+  long jobs (days--months)?
 
 - Do editors / reviewers have time to check that code and data work?
   I can recall only one comment (positive!) about running my code by a
@@ -148,9 +146,9 @@ something is better than nothing.
 
 
 
-"All papers are wrong but some are useful"
+"All models [**papers/programs**] are wrong but some are useful"
 
-"All programs are wrong but some are useful"
+
 
  Not everyone agrees: [Milkowski et al 2018](https://doi.org/10.1007/s10827-018-0702-z) suggest that paper should contain only key material.
 
@@ -158,14 +156,16 @@ something is better than nothing.
 ---
 # Our thoughts
 
-- Having code and data archived w/ paper already a win.
+- Having code and data archived with paper already a win.
 
 - Dockerfile helps you understand the environment, even if it's broke.
 
 - Having an independent assessment that the code ran *once* in an indepedent
   environment is useful knowledge for a reviewer.
   
-- Proposal to Wellcome Open Research Fund Summer 2018 failed, but
+- So how about lowering the bar instead of raising it? 
+  
+- Proposal to Wellcome Open Research Fund Summer 2018 declined, but
   brought Daniel and Stephen together.
   
 ---
@@ -181,6 +181,12 @@ something is better than nothing.
 - Output log files are archived with the results.
 
 - Relevant outputs archived on zenodo with permanent URL.
+
+- Aim.  Paper includes a CODE CHECK badge to highlight "Code/data
+  available with archive of independent verification of outputs."
+
+- This is not checking that code is scientifically correct -- simply
+  that code runs, and show what was generated.
 
 ---
 # Example certificate
@@ -205,10 +211,14 @@ something is better than nothing.
 
 - How automated can we get?  repo2docker tool adoption.
 
+- How much load will this add for journals?
+
 - Provide training examples for people to adopt / case studies.
 
-- Compute infrastructure for long jobs (can be handled locally for now).
-
+- Compute infrastructure for long jobs (can be handled locally for
+  now).
+  
+- Running commercial software (handled locally).
 
 ---
 # Target journals to work with
@@ -223,7 +233,11 @@ something is better than nothing.
 ---
 # Next steps
 
-* Code papers?  "Scientific Code"?
+
+* Building a larger corpus of example projects.
+
+* Code papers?  "Scientific Code".  Finding selfish reasons for people
+  to share.
 
 * Work with mybinder for archival?
 
