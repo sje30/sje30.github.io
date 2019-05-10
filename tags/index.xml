@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Latex</title>
+      <title>latex</title>
       <link>/tags/latex/</link>
       <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
       
@@ -21,11 +21,20 @@
     </item>
     
     <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>tag1</title>
+      <link>/tags/tag1/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>/tags/tag2/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      
+      <guid>/tags/tag2/</guid>
       <description></description>
     </item>
     
@@ -39,29 +48,20 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag1</title>
-      <link>/tags/tag1/</link>
-      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
-      
-      <guid>/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag2</title>
-      <link>/tags/tag2/</link>
-      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
-      
-      <guid>/tags/tag2/</guid>
       <description></description>
     </item>
     
