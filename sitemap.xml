@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/fixed/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/altab/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -16,19 +24,16 @@
   <url>
     <loc>/categories/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/reviewing/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -44,13 +49,11 @@
   <url>
     <loc>/categories/timers/</loc>
     <lastmod>2018-05-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/paperpile/</loc>
     <lastmod>2018-04-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -69,14 +72,13 @@
   </url>
   
   <url>
-    <loc>/2018/03/07/why-paperpile/</loc>
+    <loc>/categories/software/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/software/</loc>
+    <loc>/2018/03/07/why-paperpile/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -87,13 +89,11 @@
   <url>
     <loc>/categories/neuroscience/</loc>
     <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/reproducible-research/</loc>
     <lastmod>2018-01-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -117,21 +117,18 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags/latex/</loc>
     <lastmod>2016-09-28T14:48:09+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/latex/</loc>
     <lastmod>2016-09-28T14:48:09+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/latex/</loc>
+    <loc>/tags/</loc>
     <lastmod>2016-09-28T14:48:09+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -152,30 +149,26 @@
   <url>
     <loc>/tags/tag1/</loc>
     <lastmod>2016-03-13T17:45:42+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/tag2/</loc>
     <lastmod>2016-03-13T17:45:42+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/research/</loc>
-    <lastmod>2016-03-02T14:49:35+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/category1/</loc>
     <lastmod>2016-03-02T14:49:35+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/category2/</loc>
     <lastmod>2016-03-02T14:49:35+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2016-03-02T14:49:35+00:00</lastmod>
   </url>
   
   <url>
@@ -189,32 +182,47 @@
   </url>
   
   <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/01/02/introducing-lanyon/</loc>
+    <lastmod>2014-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2014/01/01/example-content/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2013/12/31/whats-jekyll/</loc>
+    <lastmod>2013-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/</loc>
   </url>
   
   <url>
