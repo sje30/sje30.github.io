@@ -1,67 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Stephen J Eglen</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Stephen J Eglen</description>
+    <title>Tags on </title>
+    <link>https://sje30.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Wed, 28 Sep 2016 14:48:09 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sje30.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>latex</title>
-      <link>/tags/latex/</link>
+      <title>Latex</title>
+      <link>https://sje30.github.io/tags/latex/</link>
       <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
       
-      <guid>/tags/latex/</guid>
+      <guid>https://sje30.github.io/tags/latex/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tag1</title>
-      <link>/tags/tag1/</link>
-      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
-      
-      <guid>/tags/tag1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tag2</title>
-      <link>/tags/tag2/</link>
-      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
-      
-      <guid>/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
+      <title>Plot</title>
+      <link>https://sje30.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://sje30.github.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://sje30.github.io/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://sje30.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
+      <title>Regression</title>
+      <link>https://sje30.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://sje30.github.io/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag1</title>
+      <link>https://sje30.github.io/tags/tag1/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      
+      <guid>https://sje30.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>https://sje30.github.io/tags/tag2/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      
+      <guid>https://sje30.github.io/tags/tag2/</guid>
       <description></description>
     </item>
     
