@@ -2,7 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   <head>
-  <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
   
@@ -10,7 +9,7 @@
 
   <title>
     
-      Why paperpile? &middot; Stephen J Eglen
+      Why paperpile? &middot; 
     
   </title>
 
@@ -29,8 +28,7 @@
 </head>
 
 
-  
-  <body class="sidebar-overlay theme-base-08" >
+  <body>
 
     
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
@@ -38,8 +36,7 @@
 
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>Home page for Stephen J Eglen.  Made
-    with <a href="hhtp://gohugo.io">Hugo</a > and <a href="https://github.com/tummychow/lanyon-hugo">Lanyon</a>.</p>
+    <p>A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -47,14 +44,6 @@
     <a class="sidebar-nav-item " href="/post">Posts</a>
 
     
-    
-      
-        <a class="sidebar-nav-item " href="/fixed/about/">About</a>
-      
-    
-      
-        <a class="sidebar-nav-item " href="/fixed/altab/">Another Fixed Page</a>
-      
     
       
     
@@ -146,19 +135,10 @@
     
       
     
-      
-    
-      
-    
-      
-    
-      
-    
 
-	
-    <a class="sidebar-nav-item" href="http://github.com/tummychow/lanyon-hugo/archive/master.zip">Download</a>
-
-    
+    <a class="sidebar-nav-item" href="/archive/.zip">Download</a>
+    <a class="sidebar-nav-item" href="">GitHub project</a>
+    <span class="sidebar-nav-item">Currently on </span>
   </nav>
 
   <div class="sidebar-item">
@@ -172,8 +152,8 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="/" title="Home">Stephen J Eglen</a>
-            <small>Computational Neuroscience</small>
+            <a href="/" title="Home"></a>
+            <small></small>
           </h3>
         </div>
       </div>
@@ -183,23 +163,19 @@
 
 <div class="post">
   <h1 class="post-title">Why paperpile?</h1>
-  <span class="post-date">Mar 7 2018</span>
-  
-
-<p>Journals today mostly publish our academic papers as PDFs.  This is
+  <span class="post-date">Mar 7, 2018</span>
+  <p>Journals today mostly publish our academic papers as PDFs.  This is
 great for us, as we can easily store most of our papers locally on our
 harddrives, rather than relying on a physical copy of each paper.
 However, managing such a collection of PDFs quickly becomes
 cumbersome.  Many software solutions are available for managing your
-PDFs.  One application that I&rsquo;ve found very useful is
+PDFs.  One application that I've found very useful is
 <a href="http://paperpile.com/welcome">Paperpile</a>.  There is a snappy 2
-<sup>1</sup>&frasl;<sub>2</sub> minute video that shows it in action:</p>
-
+1/2 minute video that shows it in action:</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/0r80ecyGlCw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
-
 
 <p>When visiting a web page containing a paper (e.g. from a journal web
 page), you can click on the Paperpile button in your browser to
@@ -210,72 +186,31 @@ Scholar</a>, <a href="http://arxiv.org">arXiv</a> and
 is partial output from arXiv &ndash; at the end of each <em>Subjects</em>
 line you should see the &ldquo;+ Paperpile&rdquo; button (circled here in red) that you can click to add
 the article to your collection.</p>
-
-<p><img src="/img/arxiv-paperpile.png" alt="Paperpile buttons on arXiv" /></p>
-
+<p><img src="/img/arxiv-paperpile.png" alt="Paperpile buttons on arXiv"></p>
 <p>Here are some of the reasons I like paperpile; I also mention some
 current limitations at the end.</p>
-
 <h4 id="bibtex-support">BibTeX support</h4>
-
 <p>Paperpile has first class support for BibTeX references.  If you use
 LaTeX, you will never need to hand-write a BibTeX reference again.
 Here is an example BibTeX reference exported from Paperpile:</p>
-
-<pre>
-@ARTICLE{Damani2011-99e,
-  title    = "Age-related alterations in the dynamic
-                  behavior of microglia",
-  author   = "Damani, Mausam R and Zhao, Lian and
-                  Fontainhas, Aurora M and Amaral, Juan and
-                  Fariss, Robert N and Wong, Wai T",
-  abstract = "Microglia, the primary resident immune cells
-                  of the central nervous system (CNS),
-                  exhibit dynamic behavior involving rapid
-                  process motility and cellular migration
-                  that is thought to underlie key functions
-                  of immune surveillance and tissue repair.
-                  Although age-related changes in microglial
-                  activation have been (... abstract
-                  truncated for brevity ...)  behavior at
-                  rest and following injury reveal an
-                  age-dependent dysregulation of immune
-                  response in the CNS that may illuminate
-                  microglial contributions to age-related
-                  neuroinflammatory degeneration.",
-  journal  = "Aging Cell",
-  volume   =  10,
-  number   =  2,
-  pages    = "263--276",
-  month    =  apr,
-  year     =  2011,
-  issn     = "1474-9718",
-  pmid     = "21108733",
-  doi      = "10.1111/j.1474-9726.2010.00660.x",
-  pmc      = "PMC3056927"
-}
-</pre>
-
-<p>My workflow is that I create a Paperpile tag for each paper that I&rsquo;m
-writing, and mark the papers I&rsquo;m referencing with that tag.  I can
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>My workflow is that I create a Paperpile tag for each paper that I'm
+writing, and mark the papers I'm referencing with that tag.  I can
 then easily select all the papers with that tag, and export all those
 references as BibTeX entries, and copy them into my BibTeX file.</p>
-
 <p>By default, the tag used for a BibTeX reference is automatically
 generated, e.g. <em>Damani2011-99e</em> above.  The <em>-99e</em> suffix is a
-hashcode, which I used to find a bit irritating as you can&rsquo;t remember
+hashcode, which I used to find a bit irritating as you can't remember
 them, but now I simply use my latex editor (Emacs) to look up the
 BibTeX keys anyway.  If you prefer your own BibTeX tags, you can edit
 the metadata.</p>
-
 <p>If you are not a BibTeX user, then you might find the Google Docs
 plugin useful for writing papers with references.  (See below for Word
 users&hellip;)</p>
-
 <h4 id="sharing-papers-with-others-is-easy">Sharing papers with others is easy</h4>
-
 <p>Before using Paperpile, if I wanted to share a paper with a colleague,
-I&rsquo;d email it to them.  Works fine, but then your inbox gets clogged up
+I'd email it to them.  Works fine, but then your inbox gets clogged up
 with lots of emails containing large PDF attachments.  Paperpile
 allows you to share links to papers.  E.g. here is a link for the
 <a href="https://paperpile.com/app/p/cd0a745f-a4ff-0cb7-b457-0a2a3e7b309e">Damani et
@@ -289,9 +224,7 @@ sharing papers.  You must however actively create a link to share your
 papers &ndash; by default, everything is private to your account.  Papers
 can be shared with named individuals or to anyone who has the
 corresponding link.</p>
-
 <h4 id="it-tidies-your-pdf-collection">It tidies your pdf collection</h4>
-
 <p>If you have a large collection of PDFs living in some folder on your
 laptop, you can import them directly into Paperpile.  It does a very
 good job at extracting the metadata from PDFs (but of course this is
@@ -299,71 +232,59 @@ dependent on the quality of the PDF).  Your PDFs live on Google drive
 and organises them into folders, one per letter of the alphabet,
 such as <strong>Google Drive / Paperpile / AllPapers / D / Damani et al. 2011 -
 Age-related alterations in the dynamic behaviour of microglia.pdf</strong></p>
-
 <p>So, even if nothing else you can get your PDFs reorganized.  (To sync
 this google drive on your laptop, use <a href="https://www.google.co.uk/drive/">Google
 Drive</a>.)</p>
-
 <h4 id="it-is-very-slick-at-what-it-does">It is very slick at what it does</h4>
-
-<p>Other reference managers are available, e.g. zotero, but I&rsquo;ve found
+<p>Other reference managers are available, e.g. zotero, but I've found
 paperpile to be incredibly efficient at organising papers.  The
 interface has been designed with care.  The Paperpile team are
 efficient at answering queries, and there is a useful
 <a href="http://forum.paperpile.com">forum</a> for discussions and requests.</p>
-
 <h3 id="why-not-paperpile">Why not paperpile?</h3>
-
-<p>Paperpile isn&rsquo;t perfect (yet).  Some reasons that you may need to
+<p>Paperpile isn't perfect (yet).  Some reasons that you may need to
 consider:</p>
-
 <ol>
-<li><p>It does not yet have a Word plugin, so you can&rsquo;t seamlessly write
+<li>
+<p>It does not yet have a Word plugin, so you can't seamlessly write
 manuscripts in Word and include references from paperpile.  I
 believe there is a Word plug-in coming soon though, which hopefully
-will look something like the Google docs plugin.</p></li>
-
-<li><p>You must use the <a href="https://www.google.co.uk/chrome/">Google Chrome</a>
+will look something like the Google docs plugin.</p>
+</li>
+<li>
+<p>You must use the <a href="https://www.google.co.uk/chrome/">Google Chrome</a>
 web browser to access Paperpile.  Support for android and ipad
-devices are also in the works.</p></li>
-
-<li><p>Cost.  Paperpile costs about $3/month, which although not
+devices are also in the works.</p>
+</li>
+<li>
+<p>Cost.  Paperpile costs about $3/month, which although not
 expensive, is more than some of the competition:
 <a href="http://zotero.org">zotero</a> and Mendeley are free.  Individuals can
 get a free one-month trial to evaluate it.  Note however that members of the
-<a href="/2018/04/03/paperpile-at-cambridge-maths-faculty/">Mathematics Faculty can use our site licence</a>.</p></li>
-
-<li><p>You need to be online to use it.  (In this case I recommed you use
+[Mathematics Faculty can use our site licence]
+(/2018/04/03/paperpile-at-cambridge-maths-faculty/).</p>
+</li>
+<li>
+<p>You need to be online to use it.  (In this case I recommed you use
 Google Drive to ensure you have the Paperpile folder synced to your
-laptop so that you can always read your papers.)</p></li>
+laptop so that you can always read your papers.)</p>
+</li>
 </ol>
-
 <h3 id="summary">Summary</h3>
-
 <p>Paperpile is an excellent tool for managing your academic references.</p>
-
 <h3 id="for-cambridge-readers">For Cambridge readers</h3>
-
 <p>The <a href="http://www.maths.cam.ac.uk">Maths faculty</a> at the University of
 Cambridge are trialing a <a href="/2018/04/03/paperpile-at-cambridge-maths-faculty/">site licence</a> for a year to assess its utility.  We would
 encourage other departments around Cambridge to consider joining in.
 Please contact <a href="http://sje30.github.io">me</a> for further details.</p>
-
-<!--  LocalWords:  Paperpile
- -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 
 </div>
 
-
-
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
-
-
       </div>
     </div>
+
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
   </body>

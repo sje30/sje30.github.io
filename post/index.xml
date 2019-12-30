@@ -45,7 +45,7 @@ However, rather than being a temporary measure, these charges are currently part
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/03/07/why-paperpile/</guid>
-      <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&amp;rsquo;ve found very useful is Paperpile. There is a snappy 2 1&amp;frasl;2 minute video that shows it in action:</description>
+      <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&#39;ve found very useful is Paperpile. There is a snappy 2 1/2 minute video that shows it in action:</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ However, rather than being a temporary measure, these charges are currently part
       <guid>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
       <description>[The following was written for the British Neuroscience Association]
 A brief introduction to reproducible research and open science
-At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&amp;rsquo;s work? That&amp;rsquo;s certainly the theory when writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip; Since 2004 we&amp;rsquo;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
+At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&#39;s work? That&#39;s certainly the theory when writing the paper, but it&#39;s often not the practice&amp;hellip; Since 2004 we&#39;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
     </item>
     
     <item>
@@ -65,7 +65,7 @@ At first glance, it might seem odd that you would need to prefix the term &amp;l
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
-      <description>For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
+      <description>For a few years I&#39;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
 Over the last few months, we (mostly Derek Fulton and Paraskevi Mylona) have converted this matlab code to the Julia programming language.</description>
     </item>
     
@@ -86,7 +86,7 @@ To improve this situation, we have worked with the editors of Nature Neuroscienc
       
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
     </item>
     
     <item>
@@ -96,8 +96,8 @@ To improve this situation, we have worked with the editors of Nature Neuroscienc
       
       <guid>/2016/09/28/introduction-to-latex/</guid>
       <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
-Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)
-Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
+Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&#39;ve switch to the sourcesanspro font.)
+Lab material I&#39;ve written a short template file for students to adopt when writing their own reports.</description>
     </item>
     
     <item>
@@ -128,7 +128,7 @@ The aim of this Research Topic is to examine theoretical and experimental work d
       <description>Content of the file goes here
 here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
  this is a quote
- verbatim verbatim     Right Left Center     Long Content To Spread Out the Width Of the Table To See Alignment   Right Left Center   a b c    s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot; x = 10  </description>
+ verbatim verbatim     Right Left Center     Long Content To Spread Out the Width Of the Table To See Alignment   Right Left Center   a b c    s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot; x = 10 </description>
     </item>
     
     <item>
@@ -149,37 +149,6 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Introducing Lanyon</title>
-      <link>/2014/01/02/introducing-lanyon/</link>
-      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/01/02/introducing-lanyon/</guid>
-      <description>Lanyon is an unassuming Jekyll theme that places content first by tucking away navigation in a hidden drawer. It&amp;rsquo;s based on Poole, the Jekyll butler.
-Built on Poole Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by @mdo. Poole, and every theme built on it (like Lanyon here) includes the following:
- Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and example page) Mobile friendly design and development Easily scalable text and component sizing with rem units in the CSS Support for a wide gamut of HTML elements Related posts (time-based, because Jekyll) below each post Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)  Lanyon features In addition to the features of Poole, Lanyon adds the following:</description>
-    </item>
-    
-    <item>
-      <title>Example content</title>
-      <link>/2014/01/01/example-content/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/2014/01/01/example-content/</guid>
-      <description>Howdy! This is an example blog post that shows several types of HTML content supported in this theme.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
- Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo.</description>
-    </item>
-    
-    <item>
-      <title>What&#39;s Jekyll?</title>
-      <link>/2013/12/31/whats-jekyll/</link>
-      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/2013/12/31/whats-jekyll/</guid>
-      <description>Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From the project&amp;rsquo;s readme:
- Jekyll is a simple, blog aware, static site generator. It takes a template directory [&amp;hellip;] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</description>
     </item>
     
   </channel>
