@@ -3,7 +3,7 @@
     <title>Stephen J Eglen </title>
     <link>/</link>
     <language>en-us</language>
-    <author></author>
+    <author>Mark Otto</author>
     <rights>(C) 2019</rights>
     <updated>2019-08-02 00:00:00 &#43;0000 UTC</updated>
 
@@ -12,7 +12,7 @@
         <title>Reviewing papers in hybrid journals</title>
         <link>/2019/03/25/reviewing-papers-in-hybrid-journals/</link>
         <pubDate>Mon, 25 Mar 2019 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2019/03/25/reviewing-papers-in-hybrid-journals/</guid>
         <description>&lt;p&gt;Since 2018, I no longer review manuscripts that are under
 consideration for publication in hybrid journals.  Hybrid journals
@@ -36,7 +36,7 @@ now only review for open access journals.&lt;/p&gt;
         <title>In praise of timers</title>
         <link>/2018/05/16/in-praise-of-timers/</link>
         <pubDate>Wed, 16 May 2018 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2018/05/16/in-praise-of-timers/</guid>
         <description>&lt;p&gt;Here are speaker timers for the CCBI symposiums.  For the 40 and 60
 minute talks, ten minutes before the end of the time slot, the
@@ -57,7 +57,7 @@ next talk.  (For the twenty minute talks, the splits are 16/2/2 mins).&lt;/p&gt;
         <title>Paperpile at Cambridge Maths Faculty</title>
         <link>/2018/04/03/paperpile-at-cambridge-maths-faculty/</link>
         <pubDate>Tue, 03 Apr 2018 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2018/04/03/paperpile-at-cambridge-maths-faculty/</guid>
         <description>&lt;h3 id=&#34;contents&#34;&gt;Contents&lt;/h3&gt;
 &lt;ul&gt;
@@ -126,7 +126,7 @@ your department to join any potential new licence in 2019.&lt;/p&gt;
         <title>Why paperpile?</title>
         <link>/2018/03/07/why-paperpile/</link>
         <pubDate>Wed, 07 Mar 2018 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2018/03/07/why-paperpile/</guid>
         <description>&lt;p&gt;Journals today mostly publish our academic papers as PDFs.  This is
 great for us, as we can easily store most of our papers locally on our
@@ -250,7 +250,7 @@ Please contact &lt;a href=&#34;http://sje30.github.io&#34;&gt;me&lt;/a&gt; for f
         <title>A brief introduction to reproducible research and open science</title>
         <link>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</link>
         <pubDate>Fri, 19 Jan 2018 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
         <description>&lt;p&gt;[The following was written for the &lt;a href=&#34;http://www.bna.org.uk&#34;&gt;British Neuroscience Association&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;A brief introduction to reproducible research and open science&lt;/p&gt;
@@ -329,7 +329,7 @@ Biol 16:274.
         <title>An interactive introduction to computational neuroscience</title>
         <link>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</link>
         <pubDate>Thu, 16 Nov 2017 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
         <description>&lt;p&gt;For a few years I&#39;ve given a workshop, a two hour introduction to
 computational neuroscience, for masters students.  This has covered
@@ -369,7 +369,7 @@ resources in this direction, and feedback welcome!&lt;/p&gt;
         <title>Towards standard practice for sharing of code and data in neuroscience</title>
         <link>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</link>
         <pubDate>Thu, 25 May 2017 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</guid>
         <description>&lt;p&gt;Scientists are increasingly dependent on computational techniques to
 analyse large volumes of data.  These computational methods are often
@@ -421,7 +421,7 @@ computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a hr
         <title>A Plain Markdown Post</title>
         <link>/2016/12/30/a-plain-markdown-post/</link>
         <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2016/12/30/a-plain-markdown-post/</guid>
         <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
 &lt;ol&gt;
@@ -445,7 +445,7 @@ computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a hr
         <title>Introduction to LaTeX</title>
         <link>/2016/09/28/introduction-to-latex/</link>
         <pubDate>Wed, 28 Sep 2016 14:48:09 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2016/09/28/introduction-to-latex/</guid>
         <description>&lt;p&gt;Every year I give a one-hour lecture introducting LaTeX to mathematics
 undergraduates and Masters students.  After the lecture, I normally
@@ -473,7 +473,7 @@ this is to do:&lt;/p&gt;
         <title>Quantitative Analysis of Neuroanatomy ebook</title>
         <link>/2016/03/22/quantitative-analysis-of-neuroanatomy-ebook/</link>
         <pubDate>Tue, 22 Mar 2016 00:00:00 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2016/03/22/quantitative-analysis-of-neuroanatomy-ebook/</guid>
         <description>&lt;p&gt;On behalf of all the editors, I am pleased to announce the release of
 our special issue on the
@@ -562,7 +562,7 @@ Ali Neishabouri and A. Aldo Faisal
         <title>maps2015 workshop</title>
         <link>/2016/03/13/maps2015-workshop/</link>
         <pubDate>Sun, 13 Mar 2016 17:45:42 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2016/03/13/maps2015-workshop/</guid>
         <description>&lt;p&gt;On 7-9 December 2015, we hosted &lt;a href=&#34;http://maps2015.org&#34;&gt;maps2015&lt;/a&gt; in
 Strasbourg, France.  The primary aim of the meeting was to bring
@@ -597,7 +597,7 @@ host the next meeting?&lt;/p&gt;
         <title>first</title>
         <link>/2016/03/02/first/</link>
         <pubDate>Wed, 02 Mar 2016 14:48:09 UTC</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2016/03/02/first/</guid>
         <description>&lt;p&gt;Content of the file goes here&lt;/p&gt;
 &lt;p&gt;here is a very long para
@@ -648,7 +648,7 @@ x = 10
         <title>Hello R Markdown</title>
         <link>/2015/07/23/hello-r-markdown/</link>
         <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2015/07/23/hello-r-markdown/</guid>
         <description>
 
@@ -710,7 +710,7 @@ Here&amp;#39;s the source ...&lt;/code&gt;&lt;/pre&gt;
         <title>Lorem Ipsum</title>
         <link>/2015/01/01/lorem-ipsum/</link>
         <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-        <author></author>
+        <author>Mark Otto</author>
         <guid>/2015/01/01/lorem-ipsum/</guid>
         <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
