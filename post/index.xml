@@ -45,7 +45,7 @@ However, rather than being a temporary measure, these charges are currently part
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/03/07/why-paperpile/</guid>
-      <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&#39;ve found very useful is Paperpile. There is a snappy 2 1/2 minute video that shows it in action:</description>
+      <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&amp;rsquo;ve found very useful is Paperpile. There is a snappy 2 1/2 minute video that shows it in action:</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ However, rather than being a temporary measure, these charges are currently part
       <guid>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
       <description>[The following was written for the British Neuroscience Association]
 A brief introduction to reproducible research and open science
-At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&#39;s work? That&#39;s certainly the theory when writing the paper, but it&#39;s often not the practice&amp;hellip; Since 2004 we&#39;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
+At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&amp;rsquo;s work? That&amp;rsquo;s certainly the theory when writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip; Since 2004 we&amp;rsquo;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
     </item>
     
     <item>
@@ -65,7 +65,7 @@ At first glance, it might seem odd that you would need to prefix the term &amp;l
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
-      <description>For a few years I&#39;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
+      <description>For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
 Over the last few months, we (mostly Derek Fulton and Paraskevi Mylona) have converted this matlab code to the Julia programming language.</description>
     </item>
     
@@ -86,7 +86,7 @@ To improve this situation, we have worked with the editors of Nature Neuroscienc
       
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown.</description>
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
@@ -96,8 +96,8 @@ To improve this situation, we have worked with the editors of Nature Neuroscienc
       
       <guid>/2016/09/28/introduction-to-latex/</guid>
       <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
-Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&#39;ve switch to the sourcesanspro font.)
-Lab material I&#39;ve written a short template file for students to adopt when writing their own reports.</description>
+Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)
+Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
     </item>
     
     <item>
@@ -139,7 +139,7 @@ here is a very long para here is a very long para here is a very long para here 
       <guid>/2015/07/23/hello-r-markdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
     <item>

@@ -18,19 +18,8 @@
       
       <guid>/2016/09/28/introduction-to-latex/</guid>
       <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
-Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&#39;ve switch to the sourcesanspro font.)
-Lab material I&#39;ve written a short template file for students to adopt when writing their own reports.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to LaTeX</title>
-      <link>/2016/09/28/introduction-to-latex/</link>
-      <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
-      
-      <guid>/2016/09/28/introduction-to-latex/</guid>
-      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
-Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&#39;ve switch to the sourcesanspro font.)
-Lab material I&#39;ve written a short template file for students to adopt when writing their own reports.</description>
+Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)
+Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
     </item>
     
   </channel>

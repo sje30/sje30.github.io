@@ -48,7 +48,7 @@ next talk.  (For the twenty minute talks, the splits are 16/2/2 mins).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=16:00&amp;amp;t2=18:00&amp;amp;t3=20:00&amp;amp;m=%23CCBI19&amp;amp;th=traffic&#34;&gt;Twenty minute talk&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=30:00&amp;amp;t2=35:00&amp;amp;t3=40:00&amp;amp;m=%23CCBI19&amp;amp;th=traffic&#34;&gt;Fourty minute talk&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=50:00&amp;amp;t2=55:00&amp;amp;t3=60:00&amp;amp;m=%23CCBI19&amp;amp;th=traffic&#34;&gt;Sixty minute talk&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;For testing purposes, here&#39;s also a scaled down version for a 20 second talk, with warnings at 10 seconds and 15 seconds.&lt;/p&gt;
+&lt;p&gt;For testing purposes, here&amp;rsquo;s also a scaled down version for a 20 second talk, with warnings at 10 seconds and 15 seconds.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=0:10&amp;amp;t2=0:20&amp;amp;t3=0:30&amp;amp;m=%23CCBI19&amp;amp;th=traffic&#34;&gt;Test 20 second talk&lt;/a&gt;&lt;/p&gt;
 </description>
       </item>
@@ -76,7 +76,7 @@ this &lt;a href=&#34;https://docs.google.com/document/d/1yPj5nZX2HLC76fuSrmj8cMv
 address rather than needing an &lt;code&gt;@maths&lt;/code&gt; account.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Faculty of Mathematics at Cambridge has bought a site licence for
 one year to the &lt;a href=&#34;http://paperpile.com/welcome&#34;&gt;Paperpile&lt;/a&gt; software for
-managing PDFs.  I&#39;ve written a &lt;a href=&#34;/2018/03/07/why-paperpile/&#34;&gt;short overview&lt;/a&gt; of
+managing PDFs.  I&amp;rsquo;ve written a &lt;a href=&#34;/2018/03/07/why-paperpile/&#34;&gt;short overview&lt;/a&gt; of
 why it might be useful for your research.&lt;/p&gt;
 &lt;p&gt;To use the Cambridge maths site licence for paperpile, you will need
 to create a new google account that is linked to a @cam.ac.uk or
@@ -133,7 +133,7 @@ great for us, as we can easily store most of our papers locally on our
 harddrives, rather than relying on a physical copy of each paper.
 However, managing such a collection of PDFs quickly becomes
 cumbersome.  Many software solutions are available for managing your
-PDFs.  One application that I&#39;ve found very useful is
+PDFs.  One application that I&amp;rsquo;ve found very useful is
 &lt;a href=&#34;http://paperpile.com/welcome&#34;&gt;Paperpile&lt;/a&gt;.  There is a snappy 2
 1/2 minute video that shows it in action:&lt;/p&gt;
 
@@ -159,13 +159,13 @@ LaTeX, you will never need to hand-write a BibTeX reference again.
 Here is an example BibTeX reference exported from Paperpile:&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;My workflow is that I create a Paperpile tag for each paper that I&#39;m
-writing, and mark the papers I&#39;m referencing with that tag.  I can
+&lt;p&gt;My workflow is that I create a Paperpile tag for each paper that I&amp;rsquo;m
+writing, and mark the papers I&amp;rsquo;m referencing with that tag.  I can
 then easily select all the papers with that tag, and export all those
 references as BibTeX entries, and copy them into my BibTeX file.&lt;/p&gt;
 &lt;p&gt;By default, the tag used for a BibTeX reference is automatically
 generated, e.g. &lt;em&gt;Damani2011-99e&lt;/em&gt; above.  The &lt;em&gt;-99e&lt;/em&gt; suffix is a
-hashcode, which I used to find a bit irritating as you can&#39;t remember
+hashcode, which I used to find a bit irritating as you can&amp;rsquo;t remember
 them, but now I simply use my latex editor (Emacs) to look up the
 BibTeX keys anyway.  If you prefer your own BibTeX tags, you can edit
 the metadata.&lt;/p&gt;
@@ -174,7 +174,7 @@ plugin useful for writing papers with references.  (See below for Word
 users&amp;hellip;)&lt;/p&gt;
 &lt;h4 id=&#34;sharing-papers-with-others-is-easy&#34;&gt;Sharing papers with others is easy&lt;/h4&gt;
 &lt;p&gt;Before using Paperpile, if I wanted to share a paper with a colleague,
-I&#39;d email it to them.  Works fine, but then your inbox gets clogged up
+I&amp;rsquo;d email it to them.  Works fine, but then your inbox gets clogged up
 with lots of emails containing large PDF attachments.  Paperpile
 allows you to share links to papers.  E.g. here is a link for the
 &lt;a href=&#34;https://paperpile.com/app/p/cd0a745f-a4ff-0cb7-b457-0a2a3e7b309e&#34;&gt;Damani et
@@ -200,17 +200,17 @@ Age-related alterations in the dynamic behaviour of microglia.pdf&lt;/strong&gt;
 this google drive on your laptop, use &lt;a href=&#34;https://www.google.co.uk/drive/&#34;&gt;Google
 Drive&lt;/a&gt;.)&lt;/p&gt;
 &lt;h4 id=&#34;it-is-very-slick-at-what-it-does&#34;&gt;It is very slick at what it does&lt;/h4&gt;
-&lt;p&gt;Other reference managers are available, e.g. zotero, but I&#39;ve found
+&lt;p&gt;Other reference managers are available, e.g. zotero, but I&amp;rsquo;ve found
 paperpile to be incredibly efficient at organising papers.  The
 interface has been designed with care.  The Paperpile team are
 efficient at answering queries, and there is a useful
 &lt;a href=&#34;http://forum.paperpile.com&#34;&gt;forum&lt;/a&gt; for discussions and requests.&lt;/p&gt;
 &lt;h3 id=&#34;why-not-paperpile&#34;&gt;Why not paperpile?&lt;/h3&gt;
-&lt;p&gt;Paperpile isn&#39;t perfect (yet).  Some reasons that you may need to
+&lt;p&gt;Paperpile isn&amp;rsquo;t perfect (yet).  Some reasons that you may need to
 consider:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;It does not yet have a Word plugin, so you can&#39;t seamlessly write
+&lt;p&gt;It does not yet have a Word plugin, so you can&amp;rsquo;t seamlessly write
 manuscripts in Word and include references from paperpile.  I
 believe there is a Word plug-in coming soon though, which hopefully
 will look something like the Google docs plugin.&lt;/p&gt;
@@ -257,9 +257,9 @@ Please contact &lt;a href=&#34;http://sje30.github.io&#34;&gt;me&lt;/a&gt; for f
 &lt;p&gt;At first glance, it might seem odd that you would need to prefix the
 term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;.  Surely, once you
 have a paper in your hands, you have all the details in front of you
-to reproduce someone else&#39;s work?  That&#39;s certainly the theory when
-writing the paper, but it&#39;s often not the practice&amp;hellip;  Since 2004
-we&#39;ve set a problem for our masters students to reproduce key results
+to reproduce someone else&amp;rsquo;s work?  That&amp;rsquo;s certainly the theory when
+writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip;  Since 2004
+we&amp;rsquo;ve set a problem for our masters students to reproduce key results
 from a paper within computational biology.  Even though students
 carefully select a paper where the methods section seems
 comprehensive, and all the experimental data are available, they
@@ -331,7 +331,7 @@ Biol 16:274.
         <pubDate>Thu, 16 Nov 2017 00:00:00 UTC</pubDate>
         <author>Mark Otto</author>
         <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
-        <description>&lt;p&gt;For a few years I&#39;ve given a workshop, a two hour introduction to
+        <description>&lt;p&gt;For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to
 computational neuroscience, for masters students.  This has covered
 the Hodgkin-Huxley model of action potential generation, reduced
 models, and simple small-networks.  Most of the content was previously
@@ -344,7 +344,7 @@ Mylona) have converted this matlab code to the
 to evaluate Julia as a replacement for matlab (and the signs so far
 are very encouraging) and also to evaluate recent cloud-based
 infrastructure for running notebooks.  At the eleventh hour before
-this year&#39;s workshop I decided to switch to Julia for running the
+this year&amp;rsquo;s workshop I decided to switch to Julia for running the
 workshop.  Thankfully, on the day all the technology worked perfectly.&lt;/p&gt;
 &lt;p&gt;To try the workshop for yourself, simply visit the following link:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://mybinder.org/v2/gh/sje30/julia-python/master?filepath=Introduction%20to%20Computational%20Neuroscience.ipynb&#34;&gt;&lt;img src=&#34;https://mybinder.org/badge.svg&#34; alt=&#34;Binder&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -398,7 +398,7 @@ should also be freely shared.  We hope that other journals
 will adapt appropriate policies to allow for the long-term sharing and
 reuse of scientific code.  By sharing the code and data relating to
 research articles, communities will be able to reproduce and extend
-upon each other&#39;s work.  This should lead to more robust scientific
+upon each other&amp;rsquo;s work.  This should lead to more robust scientific
 results and reduce duplication of effort.&lt;/p&gt;
 &lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
 &lt;p&gt;This project emerged from discussions at a workshop to encourage
@@ -428,16 +428,16 @@ computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a hr
 &lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;
 &lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;There are many differences in syntax between Blackfriday&#39;s Markdown and Pandoc&#39;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;
+&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write an R package.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Write a book.&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;&amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt;Profit!&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write an R package.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write a book.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Profit!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (&lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;hugo-lithium-theme&lt;/a&gt;) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: &lt;code&gt;`$ $`&lt;/code&gt;; display style: &lt;code&gt;`$$ $$`&lt;/code&gt;), e.g., &lt;code&gt;$S_n = \sum_{i=1}^n X_i$&lt;/code&gt;.^[This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., &lt;code&gt;\$50 and $100&lt;/code&gt; renders &amp;ldquo;$50 and $100&amp;rdquo;.] For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.&lt;/p&gt;
 &lt;p&gt;When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the &lt;code&gt;ext&lt;/code&gt; argument of the function &lt;code&gt;blogdown::new_post()&lt;/code&gt;, e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;blogdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;new_post&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Post Title&amp;#34;&lt;/span&gt;, ext &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;.Rmd&amp;#39;&lt;/span&gt;)
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;blogdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;new_post&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Post Title&amp;#34;&lt;/span&gt;, ext &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.Rmd&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       </item>
     
@@ -457,9 +457,9 @@ for the talk are, of-course, written in LaTeX using the
 &lt;a href=&#34;https://sourceforge.net/projects/latex-beamer/&#34;&gt;Beamer&lt;/a&gt; package.  The
 source code for the files are available on
 &lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.  (New for 2016 is that
-I&#39;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
+I&amp;rsquo;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
 &lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
-&lt;p&gt;I&#39;ve written a short template file for students to adopt when writing
+&lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
 their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
 corresponding output is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.pdf&#34;&gt;intro.pdf&lt;/a&gt;.  To recompile the document yourself,
 you will need to download the whole directory.  The easiest way to do
@@ -574,7 +574,7 @@ programme took a slightly wider scope: although most talks were
 related to the development and order in brain maps, we also had
 several interesting talks including mouse and zebrafish behaviour.  It
 was also notable that several speakers chose to share unpublished data
-&amp;ndash; something that doesn&#39;t tend to happen in larger meetings.  The
+&amp;ndash; something that doesn&amp;rsquo;t tend to happen in larger meetings.  The
 meeting brought together several research groups for the first team,
 and has already resulted in several new collaborations across the
 theoretical&amp;ndash;experimental divide.&lt;/p&gt;
@@ -651,6 +651,7 @@ x = 10
         <author>Mark Otto</author>
         <guid>/2015/07/23/hello-r-markdown/</guid>
         <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;

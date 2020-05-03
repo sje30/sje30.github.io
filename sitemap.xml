@@ -24,6 +24,11 @@
   </url>
   
   <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/reviewing/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -109,12 +114,12 @@
   </url>
   
   <url>
-    <loc>/categories/latex/</loc>
+    <loc>/tags/latex/</loc>
     <lastmod>2016-09-28T14:48:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/latex/</loc>
+    <loc>/categories/latex/</loc>
     <lastmod>2016-09-28T14:48:09+00:00</lastmod>
   </url>
   
@@ -175,11 +180,6 @@
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
