@@ -4,9 +4,30 @@
     <link>/</link>
     <language>en-us</language>
     <author>Mark Otto</author>
-    <rights>(C) 2019</rights>
+    <rights>(C) 2020</rights>
     <updated>2019-08-02 00:00:00 &#43;0000 UTC</updated>
 
+    
+      <item>
+        <title>CODECHECK - A process for independent reproduction of computations underlying research</title>
+        <link>/2020/05/23/codecheck-a-process-for-independent-reproduction-of-computations-underlying-research/</link>
+        <pubDate>Sat, 23 May 2020 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2020/05/23/codecheck-a-process-for-independent-reproduction-of-computations-underlying-research/</guid>
+        <description>&lt;p&gt;We have been making good progress on the CODECHECK project.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;We have created a corpus of certificates, which are available on
+&lt;a href=&#34;https://zenodo.org/communities/codecheck/&#34;&gt;Zenodo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our first &amp;lsquo;live&amp;rsquo; certificate for the journal Gigascience was
+created.  See blog pieces:
+&lt;a href=&#34;http://gigasciencejournal.com/blog/codecheck-certificate/&#34;&gt;1&lt;/a&gt; and
+&lt;a href=&#34;http://gigasciencejournal.com/blog/shinylearner-codecheck/&#34;&gt;2&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We have been busy replicating findings from COVID papers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Stay tuned for more developments!  Follow us along on
+&lt;a href=&#34;https://github.com/codecheckers/&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+      </item>
     
       <item>
         <title>Reviewing papers in hybrid journals</title>
