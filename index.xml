@@ -5,8 +5,36 @@
     <language>en-us</language>
     <author>Mark Otto</author>
     <rights>(C) 2020</rights>
-    <updated>2020-05-23 00:00:00 &#43;0000 UTC</updated>
+    <updated>2020-10-01 20:00:00 &#43;0000 UTC</updated>
 
+    
+      <item>
+        <title>Introduction to LaTeX</title>
+        <link>/2020/10/01/introduction-to-latex/</link>
+        <pubDate>Thu, 01 Oct 2020 20:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2020/10/01/introduction-to-latex/</guid>
+        <description>&lt;p&gt;Every year I give a one-hour lecture introducting LaTeX to mathematics
+undergraduates and Masters students.  After the lecture, I normally
+host a lab session for students to work through some material.  In
+2020, there is no physical lab session I&amp;rsquo;m afraid&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+&lt;p&gt;The
+&lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
+for the talk are, of-course, written in LaTeX using the
+&lt;a href=&#34;https://sourceforge.net/projects/latex-beamer/&#34;&gt;Beamer&lt;/a&gt; package.  The
+source code for the files are available on
+&lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
+their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
+corresponding output is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.pdf&#34;&gt;intro.pdf&lt;/a&gt;.  To recompile the document yourself,
+you will need to download the whole directory.  The easiest way to do
+this is to do:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sje30/texintro
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+      </item>
     
       <item>
         <title>CODECHECK - A process for independent reproduction of computations underlying research</title>
