@@ -347,7 +347,7 @@ drop the qualifier &amp;ldquo;open&amp;rdquo; and instead talk again simply abou
 &lt;p&gt;Read the guidelines in [3] and think if they would apply to you.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Read about peoples&amp;rsquo; experiences such as &lt;a href=&#34;https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal&#34;&gt;Erin McKiernan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read about peoples&#39; experiences such as &lt;a href=&#34;https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal&#34;&gt;Erin McKiernan&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Do experiments?  Try writing a registered report before doing the
@@ -630,7 +630,7 @@ and has already resulted in several new collaborations across the
 theoretical&amp;ndash;experimental divide.&lt;/p&gt;
 &lt;h4 id=&#34;posters&#34;&gt;Posters&lt;/h4&gt;
 &lt;p&gt;Twenty-three posters were presented at the meeting.  On the second
-evening of the meeting we ran a ``lightning session&amp;rsquo;&amp;rsquo; where each
+evening of the meeting we ran a ``lightning session&#39;&#39; where each
 poster presenter was given one minute to talk about their poster.
 This was regarded as a great innovation, both by the audience and the
 poster presenters, and as such we would like to repeat it in future
@@ -666,26 +666,26 @@ verbatim
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;right&#34;&gt;Right&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Left&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Center&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Right&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Left&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Center&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;Long Content To&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Spread Out the Width&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Of the Table To See Alignment&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Long Content To&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Spread Out the Width&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Of the Table To See Alignment&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;Right&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Left&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Center&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Right&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Left&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Center&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;a&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;b&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;c&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;a&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;b&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;c&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
