@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>eglen-ssi.utf8</title>
+    <meta charset="utf-8" />
+    <script src="eglen-ssi_files/header-attrs-2.3.1/header-attrs.js"></script>
+    <link href="eglen-ssi_files/remark-css-0.0.1/default.css" rel="stylesheet" />
+    <link href="eglen-ssi_files/remark-css-0.0.1/default-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+
+
+&lt;style&gt;
+h1   {color: rgb(0, 128, 128);}
+h2   {color: rgb(0, 128, 128);}
+h3   {color: rgb(0, 128, 128);}
+h4   {color: rgb(0, 128, 128);}
+
+ 
+ 
+/* .remark-slide-content { */
+/*   padding-top: 20px; */
+/*   padding-left: 20px; */
+/*   padding-right: 20px; */
+/*   padding-bottom: 20px; */
+/* } */
+.remark-slide-content &gt; h1:first-of-type {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.remark-slide-content &gt; h2:first-of-type {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+a:link {
+    color:  #1f618d;
+}
+
+a:visited {
+    color:  #1f618d;
+}
+
+
+.small { font-size: 70% }
+&lt;/style&gt;
+
+
+
+# CODECHECK -- Independent execution of computations underlying research articles
+
+&lt;br&gt;
+
+```
+Stephen J Eglen                  Cambridge Computational Biology Institute
+https://sje30.github.io          University of Cambridge
+sje30@cam.ac.uk                  @StephenEglen
+```
+
+
+Slides: &lt;http://bit.ly/eglen-ssi&gt; (CC-BY license)
+
+&lt;br&gt;
+
+
+
+#### Acknowledgements
+
+Joint work with Daniel Nüst; Supported by Mozilla foundation and
+Sustainable Software Institute.  Thanks to Bruno Viera (2015?) for
+introduction to Docker.
+
+&lt;https://codecheck.org.uk&gt;.
+
+
+
+---
+
+## Overview
+
+
+1. Author sends codechecker a link to their (open access) paper, data
+   and code, along with instructions on how to run code.
+   
+2. Codechecker runs code independently, and checks if key results
+   (figures, tables) can be reproduced in own environment.  If no, go
+   to step 3, else (yes) go to step 4.
+
+3. Codechecker communicates problems to author directly (not
+   anonymously).  If author can fix problem, return to step 1.
+   
+4. Codechecker writes a certificate showing what could be reproduced.
+
+&lt;br&gt;
+
+
+## Comparison with Code Ocean
+
+
+1. Some journals are testing out the Code Ocean notion: capsules that
+   can run on the web.  "Runnable *forever* by *everyone*".
+   
+2. CODECHECK sets a much lower bar: "Runnable *once* by *someone*".
+
+
+---
+
+## Advantages of a CODECHECK certificate
+
+
+1. Authors can verify their code works for someone else.  (Not
+   everyone writes Dockerfiles [yet](https://osf.io/fsd7t/).)
+
+2. Codecheckers (ECRs?) gain experience of peer review, in an open and
+   constructive manner.
+   
+3. If used during peer review, editors and reviewers can see that
+   "code works".  Not often checked.
+   
+4. Readers, upon seeing certificate, have confidence that code and
+   data are available.  (*cf.* "Materials available upon reasonable request".)
+
+
+
+---
+
+## Progress to date
+
+1. Summer 2019: two students helped curate some "historical"
+   papers of interest in my field (computational neuroscience).
+
+2. April 2020: publication of first real certificate, in Gigascience
+   for a machine learning paper
+   [blog](http://gigasciencejournal.com/blog/codecheck-certificate/).
+
+3. COVID-19: started working on reproducing key papers, firstly from LSHTM
+   and then Imperial College.
+
+
+---
+
+## "Report 9" findings from Imperial College
+
+
+&lt;!-- &lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;It ain&amp;#39;t --&gt;
+&lt;!-- pretty, but it works: verdict on the reproducibility of the code used --&gt;
+&lt;!-- for the Ferguson/Imperial model of the potential impact of --&gt;
+&lt;!-- unconstrained Covid-19 infection &lt;a --&gt;
+&lt;!-- href="https://t.co/paxu0DjPFS"&gt;https://t.co/paxu0DjPFS&lt;/a&gt; HT &lt;a --&gt;
+&lt;!-- href="https://twitter.com/Richvn?ref_src=twsrc%5Etfw"&gt;@Richvn&lt;/a&gt; That --&gt;
+&lt;!-- story&amp;#39;s based on this Codecheck &lt;a --&gt;
+&lt;!-- href="https://t.co/0pcuSR35kQ"&gt;https://t.co/0pcuSR35kQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; --&gt;
+&lt;!-- Hilda Bastian (@hildabast) &lt;a --&gt;
+&lt;!-- href="https://twitter.com/hildabast/status/1270268992536498176?ref_src=twsrc%5Etfw"&gt;June --&gt;
+&lt;!-- 9, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async --&gt;
+&lt;!-- src="https://platform.twitter.com/widgets.js" --&gt;
+&lt;!-- charset="utf-8"&gt;&lt;/script&gt; --&gt;
+
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Independent review &lt;a href="https://twitter.com/StephenEglen?ref_src=twsrc%5Etfw"&gt;@StephenEglen&lt;/a&gt; confirmed that &lt;a href="https://twitter.com/MRC_Outbreak?ref_src=twsrc%5Etfw"&gt;@MRC_Outbreak&lt;/a&gt; team&amp;#39;s &lt;a href="https://twitter.com/hashtag/COVID19?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#COVID19&lt;/a&gt; simulation is reproducible: thumbs up from code-checking efforts &lt;a href="https://twitter.com/nature?ref_src=twsrc%5Etfw"&gt;@nature&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/COVID19?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#COVID19&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/covid19science?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#covid19science&lt;/a&gt;&lt;a href="https://t.co/vpa7CkPZjV"&gt;https://t.co/vpa7CkPZjV&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sabine L.van Elsland (@SabineLvE) &lt;a href="https://twitter.com/SabineLvE/status/1270789727059349505?ref_src=twsrc%5Etfw"&gt;June 10, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+
+---
+
+## Next steps
+
+1. Writing a paper.
+
+2. Discuss with journals about embedding this practice into
+   publication workflow.
+
+3. Discuss with funders about extending project.
+
+4. Building community of codecheckers.
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

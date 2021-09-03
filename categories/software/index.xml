@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Stephen J Eglen</title>
+    <link>/categories/software/</link>
+    <description>Recent content in software on Stephen J Eglen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why paperpile?</title>
+      <link>/2018/03/07/why-paperpile/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/07/why-paperpile/</guid>
+      <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&amp;rsquo;ve found very useful is Paperpile. There is a snappy 2 1/2 minute video that shows it in action:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Stephen J Eglen</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Stephen J Eglen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2020 20:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>latex</title>
+      <link>/categories/latex/</link>
+      <pubDate>Thu, 01 Oct 2020 20:00:00 +0000</pubDate>
+      
+      <guid>/categories/latex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODECHECK</title>
+      <link>/categories/codecheck/</link>
+      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/codecheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reviewing</title>
+      <link>/categories/reviewing/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/reviewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>timers</title>
+      <link>/categories/timers/</link>
+      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/timers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paperpile</title>
+      <link>/categories/paperpile/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/paperpile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/categories/software/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroscience</title>
+      <link>/categories/neuroscience/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible research</title>
+      <link>/categories/reproducible-research/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/reproducible-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category1</title>
+      <link>/categories/category1/</link>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
+      
+      <guid>/categories/category1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category2</title>
+      <link>/categories/category2/</link>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
+      
+      <guid>/categories/category2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

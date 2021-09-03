@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      A brief introduction to reproducible research and open science &middot; Stephen J Eglen
+    
+  </title>
+
+  
+  <link rel="stylesheet" href="/css/poole.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="stylesheet" href="/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+
+  
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  
+  <body class="sidebar-overlay theme-base-08" >
+
+    
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Home page for Stephen J Eglen.  Made
+    with <a href="hhtp://gohugo.io">Hugo</a > and <a href="https://github.com/tummychow/lanyon-hugo">Lanyon</a>.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item " href="/">Home</a>
+    <a class="sidebar-nav-item " href="/post">Posts</a>
+
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/papers/">Papers</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/talks/">Talks</a>
+      
+    
+      
+        <a class="sidebar-nav-item " href="/teaching/">Teaching</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/about/">About</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/research/">Research</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+    <a class="sidebar-nav-item" href="http://github.com/tummychow/lanyon-hugo/archive/master.zip">Download</a>
+
+    
+  </nav>
+
+  <div class="sidebar-item">
+    <p>&copy; 2020. All rights reserved.</p>
+  </div>
+</div>
+
+
+    
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Stephen J Eglen</a>
+            <small>Computational Neuroscience</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+
+
+<div class="post">
+  <h1 class="post-title">A brief introduction to reproducible research and open science</h1>
+  <span class="post-date">Jan 19 2018</span>
+  <p>[The following was written for the <a href="http://www.bna.org.uk">British Neuroscience Association</a>]</p>
+<p>A brief introduction to reproducible research and open science</p>
+<p>At first glance, it might seem odd that you would need to prefix the
+term &ldquo;research&rdquo; with the qualifier &ldquo;reproducible&rdquo;.  Surely, once you
+have a paper in your hands, you have all the details in front of you
+to reproduce someone else&rsquo;s work?  That&rsquo;s certainly the theory when
+writing the paper, but it&rsquo;s often not the practice&hellip;  Since 2004
+we&rsquo;ve set a problem for our masters students to reproduce key results
+from a paper within computational biology.  Even though students
+carefully select a paper where the methods section seems
+comprehensive, and all the experimental data are available, they
+invariably find that many details are missing that preclude them from
+reproducing key figures or results.  Many papers have been published
+on this failure to reproduce [e.g. 2], commonly termed the
+&ldquo;reproducibility crisis&rdquo; [1].</p>
+<p>So, what might reproducible research entail?  The definition can vary
+from group to group, but my interpretation is that when publishing
+results, labs should also provide all relevant datasets and methodology
+for transforming data into results.  This means providing the
+spreadsheets or computational scripts to reproduce analysis.  In turn,
+this means that researchers should move away from &ldquo;point and click&rdquo;
+analysis methodologies (doing a t-test in Excel) towards computer
+scripts (such as R, matlab or python) so that others can re-run the
+same routines.</p>
+<p>So, this brings us naturally to the second term, open science.  The
+competitive nature (for limited funding, jobs, and &ldquo;high impact&rdquo;
+publications) of science means that there is a natural tendency to
+withold key datasets or analysis technologies: why give away your
+results to your competitors?  An alternative view gaining prominence
+in recent years is that by sharing our resources, we allow others to
+build on our work and science as a whole should benefit.  By being an
+open scientist, there are increased chances of making your work
+reproducible.</p>
+<p>Being an open scientist may seem naïve and altruistic, but there are
+selfish reasons for sharing your research [3].  Many
+funding agencies now require data management plans for sharing of data
+post publication, and journals are increasingly asking for data and
+methods.  My optimistic hope is that in 10 years we might be able to
+drop the qualifier &ldquo;open&rdquo; and instead talk again simply about science.</p>
+<p>Top tips for becoming an open scientist.</p>
+<ol>
+<li>
+<p>Read the guidelines in [3] and think if they would apply to you.</p>
+</li>
+<li>
+<p>Read about peoples' experiences such as <a href="https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal">Erin McKiernan</a>.</p>
+</li>
+<li>
+<p>Do experiments?  Try writing a registered report before doing the
+experiments to reduce publication bias.
+<a href="https://www.nature.com/articles/s41562-016-0034">https://www.nature.com/articles/s41562-016-0034</a></p>
+</li>
+<li>
+<p>Talk to your local library to see what services they can offer to
+help archive and share your research.  Find a local community of
+like-minded scientists!</p>
+</li>
+<li>
+<p>Learn how to code, rather than using Excel, for your data
+analysis.  e.g. <a href="http://www.datacarpentry.org">http://www.datacarpentry.org</a></p>
+</li>
+</ol>
+<p>Comments?  Send them to me via twitter <a href="https://twitter.com/StephenEglen">@StephenEglen</a></p>
+<p>References</p>
+<p>[1]:  Baker M (2016) 1,500 scientists lift the lid on reproducibility. Nature 533:452–454.  <a href="http://dx.doi.org/10.1038/533452a">http://dx.doi.org/10.1038/533452a</a></p>
+<p>[2] Ioannidis JPA (2005) Why most published research findings are
+false. PLoS Med 2:e124. <a href="https://doi.org/10.1371/journal.pmed.0020124">https://doi.org/10.1371/journal.pmed.0020124</a></p>
+<p>[3] Markowetz F (2015) Five selfish reasons to work reproducibly. Genome
+Biol 16:274.
+<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7">https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7</a></p>
+
+</div>
+
+
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  </body>
+</html>
+

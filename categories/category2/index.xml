@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category2 on Stephen J Eglen</title>
+    <link>/categories/category2/</link>
+    <description>Recent content in category2 on Stephen J Eglen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Mar 2016 14:49:35 +0000</lastBuildDate><atom:link href="/categories/category2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Retinal waves Analysis of neural spike trains Topographic map formation Reproducible research Open access </description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/2016/03/02/first/</link>
+      <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
+      
+      <guid>/2016/03/02/first/</guid>
+      <description>Content of the file goes here
+here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
+ this is a quote
+ verbatim verbatim     Right Left Center     Long Content To Spread Out the Width Of the Table To See Alignment   Right Left Center   a b c    s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot; x = 10 </description>
+    </item>
+    
+  </channel>
+</rss>

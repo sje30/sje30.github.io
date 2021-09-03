@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reproducible research on Stephen J Eglen</title>
+    <link>/categories/reproducible-research/</link>
+    <description>Recent content in reproducible research on Stephen J Eglen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A brief introduction to reproducible research and open science</title>
+      <link>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
+      <description>[The following was written for the British Neuroscience Association]
+A brief introduction to reproducible research and open science
+At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&amp;rsquo;s work? That&amp;rsquo;s certainly the theory when writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip; Since 2004 we&amp;rsquo;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
+    </item>
+    
+    <item>
+      <title>An interactive introduction to computational neuroscience</title>
+      <link>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
+      <description>For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
+Over the last few months, we (mostly Derek Fulton and Paraskevi Mylona) have converted this matlab code to the Julia programming language.</description>
+    </item>
+    
+    <item>
+      <title>Towards standard practice for sharing of code and data in neuroscience</title>
+      <link>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</guid>
+      <description>Scientists are increasingly dependent on computational techniques to analyse large volumes of data. These computational methods are often tailored to the particular analysis in mind, and as such are valuable research outputs. Furthermore, unlike experimental techniques, computational methods can be easily shared. However, at least in neuroscience, computational methods are not routinely shared upon publication of associated manuscripts.
+To improve this situation, we have worked with the editors of Nature Neuroscience to establish a pilot code review project.</description>
+    </item>
+    
+  </channel>
+</rss>

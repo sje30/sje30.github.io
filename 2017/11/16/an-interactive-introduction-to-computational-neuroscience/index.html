@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      An interactive introduction to computational neuroscience &middot; Stephen J Eglen
+    
+  </title>
+
+  
+  <link rel="stylesheet" href="/css/poole.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="stylesheet" href="/css/lanyon.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+
+  
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  
+  <body class="sidebar-overlay theme-base-08" >
+
+    
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>Home page for Stephen J Eglen.  Made
+    with <a href="hhtp://gohugo.io">Hugo</a > and <a href="https://github.com/tummychow/lanyon-hugo">Lanyon</a>.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item " href="/">Home</a>
+    <a class="sidebar-nav-item " href="/post">Posts</a>
+
+    
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/papers/">Papers</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/talks/">Talks</a>
+      
+    
+      
+        <a class="sidebar-nav-item " href="/teaching/">Teaching</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/about/">About</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        <a class="sidebar-nav-item " href="/research/">Research</a>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+    <a class="sidebar-nav-item" href="http://github.com/tummychow/lanyon-hugo/archive/master.zip">Download</a>
+
+    
+  </nav>
+
+  <div class="sidebar-item">
+    <p>&copy; 2020. All rights reserved.</p>
+  </div>
+</div>
+
+
+    
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">Stephen J Eglen</a>
+            <small>Computational Neuroscience</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+
+
+<div class="post">
+  <h1 class="post-title">An interactive introduction to computational neuroscience</h1>
+  <span class="post-date">Nov 16 2017</span>
+  <p>For a few years I&rsquo;ve given a workshop, a two hour introduction to
+computational neuroscience, for masters students.  This has covered
+the Hodgkin-Huxley model of action potential generation, reduced
+models, and simple small-networks.  Most of the content was previously
+matlab code, provided by other researchers, most notably <a href="http://cvr.yorku.ca/webpages/wilson.htm">Hugh
+Wilson</a> and <a href="https://www.izhikevich.org/">Eugene
+Izhikevich</a>.</p>
+<p>Over the last few months, we (mostly Derek Fulton and Paraskevi
+Mylona) have converted this matlab code to the
+<a href="http://julialang.org">Julia</a> programming language.  This was partly
+to evaluate Julia as a replacement for matlab (and the signs so far
+are very encouraging) and also to evaluate recent cloud-based
+infrastructure for running notebooks.  At the eleventh hour before
+this year&rsquo;s workshop I decided to switch to Julia for running the
+workshop.  Thankfully, on the day all the technology worked perfectly.</p>
+<p>To try the workshop for yourself, simply visit the following link:</p>
+<p><a href="https://mybinder.org/v2/gh/sje30/julia-python/master?filepath=Introduction%20to%20Computational%20Neuroscience.ipynb"><img src="https://mybinder.org/badge.svg" alt="Binder"></a></p>
+<p>This should launch an interactive Jupyter notebook, where all the
+graphs can be dynamically regenerated.  To try this, first go to the
+<em>Cell menu -&gt; All Output -&gt; Clear</em> to clear al the items and then
+<em>Cell -&gt; Run All</em> to re-generate them.  (The first time you regenrate,
+it may take a while as it needs to load various packages.)</p>
+<p>I think this technology is a great way of providing resources.
+Students do not need to load any software onto their local machine;
+all you need is a modern web browser and an internet connection.  No
+more matlab licenses required! It also introduces students to the
+notion of reproducible documents: live figures that can be
+regenerated, rather than static figures.</p>
+<p>The tutorial is a bit rough around the edges, and not really
+appropriate for independent study, but I intend to develop more
+resources in this direction, and feedback welcome!</p>
+
+</div>
+
+
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  </body>
+</html>
+
