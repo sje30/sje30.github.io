@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/papers/</loc>
+    <lastmod>2021-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
     <lastmod>2020-10-01T20:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -29,9 +32,6 @@
   </url><url>
     <loc>/2020/05/23/codecheck-a-process-for-independent-reproduction-of-computations-underlying-research/</loc>
     <lastmod>2020-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/papers/</loc>
-    <lastmod>2019-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/reviewing/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
