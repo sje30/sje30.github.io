@@ -487,7 +487,7 @@ computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a hr
 &lt;/ul&gt;
 &lt;p&gt;Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (&lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;hugo-lithium-theme&lt;/a&gt;) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: &lt;code&gt;`$ $`&lt;/code&gt;; display style: &lt;code&gt;`$$ $$`&lt;/code&gt;), e.g., &lt;code&gt;$S_n = \sum_{i=1}^n X_i$&lt;/code&gt;.^[This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., &lt;code&gt;\$50 and $100&lt;/code&gt; renders &amp;ldquo;$50 and $100&amp;rdquo;.] For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.&lt;/p&gt;
 &lt;p&gt;When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the &lt;code&gt;ext&lt;/code&gt; argument of the function &lt;code&gt;blogdown::new_post()&lt;/code&gt;, e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;n&#34;&gt;blogdown&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;::&lt;/span&gt;&lt;span class=&#34;nf&#34;&gt;new_post&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Post Title&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ext&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;.Rmd&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;blogdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;new_post&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Post Title&amp;#34;&lt;/span&gt;, ext &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.Rmd&amp;#39;&lt;/span&gt;)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       </item>
     
@@ -689,7 +689,7 @@ verbatim
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;pre&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot;
 x = 10
 &lt;/code&gt;&lt;/pre&gt;</description>
       </item>
