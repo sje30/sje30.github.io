@@ -46,7 +46,7 @@ this is to do:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;We have created a corpus of certificates, which are available on
 &lt;a href=&#34;https://zenodo.org/communities/codecheck/&#34;&gt;Zenodo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Our first &amp;lsquo;live&amp;rsquo; certificate for the journal Gigascience was
+&lt;li&gt;Our first &amp;rsquo;live&amp;rsquo; certificate for the journal Gigascience was
 created.  See blog pieces:
 &lt;a href=&#34;http://gigasciencejournal.com/blog/codecheck-certificate/&#34;&gt;1&lt;/a&gt; and
 &lt;a href=&#34;http://gigasciencejournal.com/blog/shinylearner-codecheck/&#34;&gt;2&lt;/a&gt;.&lt;/li&gt;
@@ -347,7 +347,7 @@ drop the qualifier &amp;ldquo;open&amp;rdquo; and instead talk again simply abou
 &lt;p&gt;Read the guidelines in [3] and think if they would apply to you.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Read about peoples&#39; experiences such as &lt;a href=&#34;https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal&#34;&gt;Erin McKiernan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Read about peoples&amp;rsquo; experiences such as &lt;a href=&#34;https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal&#34;&gt;Erin McKiernan&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Do experiments?  Try writing a registered report before doing the
@@ -487,8 +487,8 @@ computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a hr
 &lt;/ul&gt;
 &lt;p&gt;Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (&lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;hugo-lithium-theme&lt;/a&gt;) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: &lt;code&gt;`$ $`&lt;/code&gt;; display style: &lt;code&gt;`$$ $$`&lt;/code&gt;), e.g., &lt;code&gt;$S_n = \sum_{i=1}^n X_i$&lt;/code&gt;.^[This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., &lt;code&gt;\$50 and $100&lt;/code&gt; renders &amp;ldquo;$50 and $100&amp;rdquo;.] For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.&lt;/p&gt;
 &lt;p&gt;When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the &lt;code&gt;ext&lt;/code&gt; argument of the function &lt;code&gt;blogdown::new_post()&lt;/code&gt;, e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;blogdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;new_post&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Post Title&amp;#34;&lt;/span&gt;, ext &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.Rmd&amp;#39;&lt;/span&gt;)
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;blogdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;new_post&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Post Title&amp;#34;&lt;/span&gt;, ext &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.Rmd&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
       </item>
     
       <item>
@@ -630,7 +630,7 @@ and has already resulted in several new collaborations across the
 theoretical&amp;ndash;experimental divide.&lt;/p&gt;
 &lt;h4 id=&#34;posters&#34;&gt;Posters&lt;/h4&gt;
 &lt;p&gt;Twenty-three posters were presented at the meeting.  On the second
-evening of the meeting we ran a ``lightning session&#39;&#39; where each
+evening of the meeting we ran a ``lightning session&amp;rsquo;&amp;rsquo; where each
 poster presenter was given one minute to talk about their poster.
 This was regarded as a great innovation, both by the audience and the
 poster presenters, and as such we would like to repeat it in future
@@ -689,7 +689,7 @@ verbatim
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;s = &amp;quot;this is a very long string that is likely to take a lot of space&amp;quot;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;s = &amp;#34;this is a very long string that is likely to take a lot of space&amp;#34;
 x = 10
 &lt;/code&gt;&lt;/pre&gt;</description>
       </item>
