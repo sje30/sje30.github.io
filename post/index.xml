@@ -25,7 +25,7 @@ Lab material I&amp;rsquo;ve written a short template file for students to adopt 
       
       <guid>/2020/05/23/codecheck-a-process-for-independent-reproduction-of-computations-underlying-research/</guid>
       <description>We have been making good progress on the CODECHECK project.
- We have created a corpus of certificates, which are available on Zenodo Our first &amp;rsquo;live&amp;rsquo; certificate for the journal Gigascience was created. See blog pieces: 1 and 2. We have been busy replicating findings from COVID papers. Update: this has now been reported in this Nature news item.  Stay tuned for more developments! Follow us along on github.</description>
+We have created a corpus of certificates, which are available on Zenodo Our first &amp;rsquo;live&amp;rsquo; certificate for the journal Gigascience was created. See blog pieces: 1 and 2. We have been busy replicating findings from COVID papers. Update: this has now been reported in this Nature news item. Stay tuned for more developments! Follow us along on github.</description>
     </item>
     
     <item>
@@ -53,7 +53,8 @@ However, rather than being a temporary measure, these charges are currently part
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/04/03/paperpile-at-cambridge-maths-faculty/</guid>
-      <description>Contents  Paperpile at Cambridge Maths Faculty Steps Trial ends March 2019 Notes  Paperpile at Cambridge Maths Faculty Update: March 2019. The mathematics paperpile site licence will expire at the end of March 2019. If you would like to discuss how to continue a site licence: (1) please read the new Cambridge paperpile email list (2) consider helping with a bid for funds by commenting on this google document.</description>
+      <description>Contents Paperpile at Cambridge Maths Faculty Steps Trial ends March 2019 Notes Paperpile at Cambridge Maths Faculty Update: March 2019. The mathematics paperpile site licence will expire at the end of March 2019. If you would like to discuss how to continue a site licence: (1) please read the new Cambridge paperpile email list (2) consider helping with a bid for funds by commenting on this google document.
+Update: October 2018.</description>
     </item>
     
     <item>
@@ -103,7 +104,7 @@ To improve this situation, we have worked with the editors of Nature Neuroscienc
       
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
@@ -144,8 +145,8 @@ The aim of this Research Topic is to examine theoretical and experimental work d
       <guid>/2016/03/02/first/</guid>
       <description>Content of the file goes here
 here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
- this is a quote
- verbatim verbatim     Right Left Center     Long Content To Spread Out the Width Of the Table To See Alignment   Right Left Center   a b c    s = &amp;#34;this is a very long string that is likely to take a lot of space&amp;#34; x = 10 </description>
+this is a quote
+verbatim verbatim Right Left Center Long Content To Spread Out the Width Of the Table To See Alignment Right Left Center a b c s = &amp;#34;this is a very long string that is likely to take a lot of space&amp;#34; x = 10 </description>
     </item>
     
     <item>
@@ -156,7 +157,7 @@ here is a very long para here is a very long para here is a very long para here 
       <guid>/2015/07/23/hello-r-markdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>

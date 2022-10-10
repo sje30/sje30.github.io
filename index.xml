@@ -689,7 +689,7 @@ verbatim
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;s = &amp;#34;this is a very long string that is likely to take a lot of space&amp;#34;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;s = &amp;#34;this is a very long string that is likely to take a lot of space&amp;#34;
 x = 10
 &lt;/code&gt;&lt;/pre&gt;</description>
       </item>
