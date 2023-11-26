@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 20:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>latex</title>
-      <link>/tags/latex/</link>
-      <pubDate>Thu, 01 Oct 2020 20:00:00 +0000</pubDate>
-      
-      <guid>/tags/latex/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 02 Mar 2016 14:49:35 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tag1</title>
       <link>/tags/tag1/</link>
-      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
       
       <guid>/tags/tag1/</guid>
       <description></description>
@@ -28,36 +19,9 @@
     <item>
       <title>tag2</title>
       <link>/tags/tag2/</link>
-      <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
+      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
       
       <guid>/tags/tag2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
