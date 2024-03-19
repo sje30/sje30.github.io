@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>timers on Stephen J Eglen</title>
+    <title>Timers on Stephen J Eglen</title>
     <link>/categories/timers/</link>
-    <description>Recent content in timers on Stephen J Eglen</description>
+    <description>Recent content in Timers on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="/categories/timers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/timers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In praise of timers</title>
       <link>/2018/05/16/in-praise-of-timers/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/05/16/in-praise-of-timers/</guid>
       <description>Here are speaker timers for the CCBI symposiums. For the 40 and 60 minute talks, ten minutes before the end of the time slot, the background changes from green to orange (with one bell). With five minutes to go, the background changes to red (with two bells). At the end of the time slot, three bells sound, and we should move onto the next talk. (For the twenty minute talks, the splits are 16/2/2 mins).</description>
     </item>
-    
   </channel>
 </rss>

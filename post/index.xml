@@ -6,168 +6,119 @@
     <description>Recent content in Posts on Stephen J Eglen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 20:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 20:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to LaTeX</title>
       <link>/2020/10/01/introduction-to-latex/</link>
       <pubDate>Thu, 01 Oct 2020 20:00:00 +0000</pubDate>
-      
       <guid>/2020/10/01/introduction-to-latex/</guid>
-      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material. In 2020, there is no physical lab session I&amp;rsquo;m afraid&amp;hellip;
-Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github.
-Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
+      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material. In 2020, there is no physical lab session I&amp;rsquo;m afraid&amp;hellip;&#xA;Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github.&#xA;Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
     </item>
-    
     <item>
       <title>CODECHECK - A process for independent reproduction of computations underlying research</title>
-      <link>/2020/05/23/codecheck-a-process-for-independent-reproduction-of-computations-underlying-research/</link>
+      <link>/2020/05/23/codecheck/</link>
       <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/23/codecheck-a-process-for-independent-reproduction-of-computations-underlying-research/</guid>
-      <description>We have been making good progress on the CODECHECK project.
-We have created a corpus of certificates, which are available on Zenodo Our first &amp;rsquo;live&amp;rsquo; certificate for the journal Gigascience was created. See blog pieces: 1 and 2. We have been busy replicating findings from COVID papers. Update: this has now been reported in this Nature news item. Stay tuned for more developments! Follow us along on github.</description>
+      <guid>/2020/05/23/codecheck/</guid>
+      <description>We have been making good progress on the CODECHECK project.&#xA;We have created a corpus of certificates, which are available on Zenodo Our first &amp;rsquo;live&amp;rsquo; certificate for the journal Gigascience was created. See blog pieces: 1 and 2. We have been busy replicating findings from COVID papers. Update: this has now been reported in this Nature news item. Stay tuned for more developments! Follow us along on github.</description>
     </item>
-    
     <item>
       <title>Reviewing papers in hybrid journals</title>
       <link>/2019/03/25/reviewing-papers-in-hybrid-journals/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/2019/03/25/reviewing-papers-in-hybrid-journals/</guid>
-      <description>Since 2018, I no longer review manuscripts that are under consideration for publication in hybrid journals. Hybrid journals (where a subscription-based journal charges the author an extra amount to make their article open access) have become increasingly popular in the last few years as a way for journals to meet open access mandates.
-However, rather than being a temporary measure, these charges are currently part of the mainstream publishing process. These extra OA charges lead to accusations of &amp;lsquo;double dipping&amp;rsquo;, where academics are paying twice: first for the library to subscribe, second for the author to publish.</description>
+      <description>Since 2018, I no longer review manuscripts that are under consideration for publication in hybrid journals. Hybrid journals (where a subscription-based journal charges the author an extra amount to make their article open access) have become increasingly popular in the last few years as a way for journals to meet open access mandates.&#xA;However, rather than being a temporary measure, these charges are currently part of the mainstream publishing process. These extra OA charges lead to accusations of &amp;lsquo;double dipping&amp;rsquo;, where academics are paying twice: first for the library to subscribe, second for the author to publish.</description>
     </item>
-    
     <item>
       <title>In praise of timers</title>
       <link>/2018/05/16/in-praise-of-timers/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/05/16/in-praise-of-timers/</guid>
       <description>Here are speaker timers for the CCBI symposiums. For the 40 and 60 minute talks, ten minutes before the end of the time slot, the background changes from green to orange (with one bell). With five minutes to go, the background changes to red (with two bells). At the end of the time slot, three bells sound, and we should move onto the next talk. (For the twenty minute talks, the splits are 16/2/2 mins).</description>
     </item>
-    
     <item>
       <title>Paperpile at Cambridge Maths Faculty</title>
       <link>/2018/04/03/paperpile-at-cambridge-maths-faculty/</link>
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/04/03/paperpile-at-cambridge-maths-faculty/</guid>
-      <description>Contents Paperpile at Cambridge Maths Faculty Steps Trial ends March 2019 Notes Paperpile at Cambridge Maths Faculty Update: March 2019. The mathematics paperpile site licence will expire at the end of March 2019. If you would like to discuss how to continue a site licence: (1) please read the new Cambridge paperpile email list (2) consider helping with a bid for funds by commenting on this google document.
-Update: October 2018.</description>
+      <description>Contents Paperpile at Cambridge Maths Faculty Steps Trial ends March 2019 Notes Paperpile at Cambridge Maths Faculty Update: March 2019. The mathematics paperpile site licence will expire at the end of March 2019. If you would like to discuss how to continue a site licence: (1) please read the new Cambridge paperpile email list (2) consider helping with a bid for funds by commenting on this google document.&#xA;Update: October 2018.</description>
     </item>
-    
     <item>
       <title>Why paperpile?</title>
       <link>/2018/03/07/why-paperpile/</link>
       <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/03/07/why-paperpile/</guid>
       <description>Journals today mostly publish our academic papers as PDFs. This is great for us, as we can easily store most of our papers locally on our harddrives, rather than relying on a physical copy of each paper. However, managing such a collection of PDFs quickly becomes cumbersome. Many software solutions are available for managing your PDFs. One application that I&amp;rsquo;ve found very useful is Paperpile. There is a snappy 2 1/2 minute video that shows it in action:</description>
     </item>
-    
     <item>
       <title>A brief introduction to reproducible research and open science</title>
       <link>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
-      <description>[The following was written for the British Neuroscience Association]
-A brief introduction to reproducible research and open science
-At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&amp;rsquo;s work? That&amp;rsquo;s certainly the theory when writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip; Since 2004 we&amp;rsquo;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
+      <description>[The following was written for the British Neuroscience Association]&#xA;A brief introduction to reproducible research and open science&#xA;At first glance, it might seem odd that you would need to prefix the term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;. Surely, once you have a paper in your hands, you have all the details in front of you to reproduce someone else&amp;rsquo;s work? That&amp;rsquo;s certainly the theory when writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip; Since 2004 we&amp;rsquo;ve set a problem for our masters students to reproduce key results from a paper within computational biology.</description>
     </item>
-    
     <item>
       <title>An interactive introduction to computational neuroscience</title>
       <link>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</link>
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
-      
       <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
-      <description>For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.
-Over the last few months, we (mostly Derek Fulton and Paraskevi Mylona) have converted this matlab code to the Julia programming language.</description>
+      <description>For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to computational neuroscience, for masters students. This has covered the Hodgkin-Huxley model of action potential generation, reduced models, and simple small-networks. Most of the content was previously matlab code, provided by other researchers, most notably Hugh Wilson and Eugene Izhikevich.&#xA;Over the last few months, we (mostly Derek Fulton and Paraskevi Mylona) have converted this matlab code to the Julia programming language.</description>
     </item>
-    
     <item>
       <title>Towards standard practice for sharing of code and data in neuroscience</title>
       <link>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</link>
       <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</guid>
-      <description>Scientists are increasingly dependent on computational techniques to analyse large volumes of data. These computational methods are often tailored to the particular analysis in mind, and as such are valuable research outputs. Furthermore, unlike experimental techniques, computational methods can be easily shared. However, at least in neuroscience, computational methods are not routinely shared upon publication of associated manuscripts.
-To improve this situation, we have worked with the editors of Nature Neuroscience to establish a pilot code review project.</description>
+      <description>Scientists are increasingly dependent on computational techniques to analyse large volumes of data. These computational methods are often tailored to the particular analysis in mind, and as such are valuable research outputs. Furthermore, unlike experimental techniques, computational methods can be easily shared. However, at least in neuroscience, computational methods are not routinely shared upon publication of associated manuscripts.&#xA;To improve this situation, we have worked with the editors of Nature Neuroscience to establish a pilot code review project.</description>
     </item>
-    
     <item>
       <title>A Plain Markdown Post</title>
       <link>/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
       <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
-You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:&#xA;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc. There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
-    
     <item>
       <title>Introduction to LaTeX</title>
       <link>/2016/09/28/introduction-to-latex/</link>
       <pubDate>Wed, 28 Sep 2016 14:48:09 +0000</pubDate>
-      
       <guid>/2016/09/28/introduction-to-latex/</guid>
-      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.
-Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)
-Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
+      <description>Every year I give a one-hour lecture introducting LaTeX to mathematics undergraduates and Masters students. After the lecture, I normally host a lab session for students to work through some material.&#xA;Slides The slides for the talk are, of-course, written in LaTeX using the Beamer package. The source code for the files are available on github. (New for 2016 is that I&amp;rsquo;ve switch to the sourcesanspro font.)&#xA;Lab material I&amp;rsquo;ve written a short template file for students to adopt when writing their own reports.</description>
     </item>
-    
     <item>
       <title>Quantitative Analysis of Neuroanatomy ebook</title>
       <link>/2016/03/22/quantitative-analysis-of-neuroanatomy-ebook/</link>
       <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
-      
       <guid>/2016/03/22/quantitative-analysis-of-neuroanatomy-ebook/</guid>
-      <description>On behalf of all the editors, I am pleased to announce the release of our special issue on the Quantitative Analysis of Neuroanatomy. All articles have been published in Frontiers in Neuroanatomy. As of March 2016, all papers are now freely available as an Ebook either in PDF or EPUB format.
-The aim of this Research Topic is to examine theoretical and experimental work directed at a detailed and comprehensive quantitative understanding of neuroanatomy.</description>
+      <description>On behalf of all the editors, I am pleased to announce the release of our special issue on the Quantitative Analysis of Neuroanatomy. All articles have been published in Frontiers in Neuroanatomy. As of March 2016, all papers are now freely available as an Ebook either in PDF or EPUB format.&#xA;The aim of this Research Topic is to examine theoretical and experimental work directed at a detailed and comprehensive quantitative understanding of neuroanatomy.</description>
     </item>
-    
     <item>
       <title>maps2015 workshop</title>
       <link>/2016/03/13/maps2015-workshop/</link>
       <pubDate>Sun, 13 Mar 2016 17:45:42 +0000</pubDate>
-      
       <guid>/2016/03/13/maps2015-workshop/</guid>
       <description>On 7-9 December 2015, we hosted maps2015 in Strasbourg, France. The primary aim of the meeting was to bring together the two communities of theoreticians and experimentalists working on related problems in developmental neurobiology. This was the second meeting that we have hosted on this topic, following on from maps2014.org in Edinburgh. This year the programme took a slightly wider scope: although most talks were related to the development and order in brain maps, we also had several interesting talks including mouse and zebrafish behaviour.</description>
     </item>
-    
     <item>
       <title>first</title>
       <link>/2016/03/02/first/</link>
       <pubDate>Wed, 02 Mar 2016 14:48:09 +0000</pubDate>
-      
       <guid>/2016/03/02/first/</guid>
-      <description>Content of the file goes here
-here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para
-this is a quote
-verbatim verbatim Right Left Center Long Content To Spread Out the Width Of the Table To See Alignment Right Left Center a b c </description>
+      <description>Content of the file goes here&#xA;here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para here is a very long para&#xA;this is a quote&#xA;verbatim verbatim Right Left Center Long Content To Spread Out the Width Of the Table To See Alignment Right Left Center a b c </description>
     </item>
-    
     <item>
       <title>Hello R Markdown</title>
       <link>/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
       <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.&#xA;You can embed an R code chunk like this:&#xA;summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
-    
     <item>
       <title>Lorem Ipsum</title>
       <link>/2015/01/01/lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
       <guid>/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
-    
   </channel>
 </rss>
