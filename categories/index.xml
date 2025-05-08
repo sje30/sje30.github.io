@@ -1,89 +1,762 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Stephen J Eglen</title>
+    <title>Stephen J Eglen </title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Stephen J Eglen</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 20:00:00 +0000</lastBuildDate>
-    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Latex</title>
-      <link>/categories/latex/</link>
-      <pubDate>Thu, 01 Oct 2020 20:00:00 +0000</pubDate>
-      <guid>/categories/latex/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CODECHECK</title>
-      <link>/categories/codecheck/</link>
-      <pubDate>Sat, 23 May 2020 00:00:00 +0000</pubDate>
-      <guid>/categories/codecheck/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reviewing</title>
-      <link>/categories/reviewing/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/categories/reviewing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Timers</title>
-      <link>/categories/timers/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/timers/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Paperpile</title>
-      <link>/categories/paperpile/</link>
-      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/paperpile/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software</title>
-      <link>/categories/software/</link>
-      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/software/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Neuroscience</title>
-      <link>/categories/neuroscience/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/neuroscience/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reproducible Research</title>
-      <link>/categories/reproducible-research/</link>
-      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/categories/reproducible-research/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Category1</title>
-      <link>/categories/category1/</link>
-      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
-      <guid>/categories/category1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Category2</title>
-      <link>/categories/category2/</link>
-      <pubDate>Wed, 02 Mar 2016 14:49:35 +0000</pubDate>
-      <guid>/categories/category2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
+    <author>Mark Otto</author>
+    <rights>(C) 2022</rights>
+    <updated>2020-10-01 20:00:00 &#43;0000 UTC</updated>
+
+    
+      <item>
+        <title>Introduction to LaTeX</title>
+        <link>/2020/10/01/introduction-to-latex/</link>
+        <pubDate>Thu, 01 Oct 2020 20:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2020/10/01/introduction-to-latex/</guid>
+        <description>&lt;p&gt;Every year I give a one-hour lecture introducting LaTeX to mathematics
+undergraduates and Masters students.  After the lecture, I normally
+host a lab session for students to work through some material.  In
+2020, there is no physical lab session I&amp;rsquo;m afraid&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+&lt;p&gt;The
+&lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
+for the talk are, of-course, written in LaTeX using the
+&lt;a href=&#34;https://sourceforge.net/projects/latex-beamer/&#34;&gt;Beamer&lt;/a&gt; package.  The
+source code for the files are available on
+&lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
+their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
+corresponding output is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.pdf&#34;&gt;intro.pdf&lt;/a&gt;.  To recompile the document yourself,
+you will need to download the whole directory.  The easiest way to do
+this is to do:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sje30/texintro
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>CODECHECK - A process for independent reproduction of computations underlying research</title>
+        <link>/2020/05/23/codecheck/</link>
+        <pubDate>Sat, 23 May 2020 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2020/05/23/codecheck/</guid>
+        <description>&lt;p&gt;We have been making good progress on the CODECHECK project.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;We have created a corpus of certificates, which are available on
+&lt;a href=&#34;https://zenodo.org/communities/codecheck/&#34;&gt;Zenodo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our first &amp;rsquo;live&amp;rsquo; certificate for the journal Gigascience was
+created.  See blog pieces:
+&lt;a href=&#34;http://gigasciencejournal.com/blog/codecheck-certificate/&#34;&gt;1&lt;/a&gt; and
+&lt;a href=&#34;http://gigasciencejournal.com/blog/shinylearner-codecheck/&#34;&gt;2&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We have been busy replicating findings from COVID papers.  Update:
+this has now been reported in this &lt;a href=&#34;https://www.nature.com/articles/d41586-020-01685-y&#34;&gt;Nature news&lt;/a&gt; item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Stay tuned for more developments!  Follow us along on
+&lt;a href=&#34;https://github.com/codecheckers/&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Reviewing papers in hybrid journals</title>
+        <link>/2019/03/25/reviewing-papers-in-hybrid-journals/</link>
+        <pubDate>Mon, 25 Mar 2019 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2019/03/25/reviewing-papers-in-hybrid-journals/</guid>
+        <description>&lt;p&gt;Since 2018, I no longer review manuscripts that are under
+consideration for publication in hybrid journals.  Hybrid journals
+(where a subscription-based journal charges the author an extra amount
+to make their article open access) have become increasingly popular in
+the last few years as a way for journals to meet open access mandates.&lt;/p&gt;
+&lt;p&gt;However, rather than being a temporary measure, these charges are
+currently part of the mainstream publishing process.  These extra OA
+charges lead to accusations of &amp;lsquo;double dipping&amp;rsquo;, where academics are
+paying twice: first for the library to subscribe, second for the author
+to publish.  Some publishers provide offsetting agreements to give
+authors discount on these charges, but these agreements simply further
+lock-in traditional publishing methods.&lt;/p&gt;
+&lt;p&gt;By agreeing to review for hybrid journals, I believe I would be
+implicitly reinforcing the hybrid model of publication.  I therefore
+now only review for open access journals.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>In praise of timers</title>
+        <link>/2018/05/16/in-praise-of-timers/</link>
+        <pubDate>Wed, 16 May 2018 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2018/05/16/in-praise-of-timers/</guid>
+        <description>&lt;p&gt;Here are speaker timers for the CCBI symposiums.  For the 40 and 60
+minute talks, ten minutes before the end of the time slot, the
+background changes from green to orange (with one bell).  With five
+minutes to go, the background changes to red (with two bells).  At the
+end of the time slot, three bells sound, and we should move onto the
+next talk.  (For the twenty minute talks, the splits are 16/2/2 mins).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=4:00&amp;amp;t2=5:00&amp;amp;t3=5:10&amp;amp;m=%23CCBI22&amp;amp;th=traffic&#34;&gt;Five minute talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=16:00&amp;amp;t2=18:00&amp;amp;t3=20:00&amp;amp;m=%23CCBI22&amp;amp;th=traffic&#34;&gt;Twenty minute talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=30:00&amp;amp;t2=35:00&amp;amp;t3=40:00&amp;amp;m=%23CCBI22&amp;amp;th=traffic&#34;&gt;Fourty minute talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=50:00&amp;amp;t2=55:00&amp;amp;t3=60:00&amp;amp;m=%23CCBI22&amp;amp;th=traffic&#34;&gt;Sixty minute talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For testing purposes, here&amp;rsquo;s also a scaled down version for a 20 second talk, with warnings at 10 seconds and 15 seconds.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://maruta.github.io/timekeeper/#t1=0:10&amp;amp;t2=0:15&amp;amp;t3=0:20&amp;amp;m=%23CCBI22&amp;amp;th=traffic&#34;&gt;Test 20 second talk&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Paperpile at Cambridge Maths Faculty</title>
+        <link>/2018/04/03/paperpile-at-cambridge-maths-faculty/</link>
+        <pubDate>Tue, 03 Apr 2018 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2018/04/03/paperpile-at-cambridge-maths-faculty/</guid>
+        <description>&lt;h3 id=&#34;contents&#34;&gt;Contents&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#paperpile-at-cambridge-maths-faculty&#34;&gt;Paperpile at Cambridge Maths Faculty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#steps&#34;&gt;Steps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#trial-ends-march-2019&#34;&gt;Trial ends March 2019&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#notes&#34;&gt;Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;paperpile-at-cambridge-maths-faculty&#34;&gt;Paperpile at Cambridge Maths Faculty&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Update: March 2019.  The mathematics paperpile site licence will
+expire at the end of March 2019.  If you would like to discuss how to
+continue a site licence: (1) please read the new &lt;a href=&#34;https://lists.cam.ac.uk/mailman/listinfo/ucam-paperpile&#34;&gt;Cambridge paperpile
+email list&lt;/a&gt; (2) consider helping with a bid for funds by commenting on
+this &lt;a href=&#34;https://docs.google.com/document/d/1yPj5nZX2HLC76fuSrmj8cMv9gNm3pdN4gQ9nSmWwxaI/edit?usp=sharing&#34;&gt;google document&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Update: October 2018.  You can now use your &lt;code&gt;crsid@cam.ac.uk&lt;/code&gt; email
+address rather than needing an &lt;code&gt;@maths&lt;/code&gt; account.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Faculty of Mathematics at Cambridge has bought a site licence for
+one year to the &lt;a href=&#34;http://paperpile.com/welcome&#34;&gt;Paperpile&lt;/a&gt; software for
+managing PDFs.  I&amp;rsquo;ve written a &lt;a href=&#34;/2018/03/07/why-paperpile/&#34;&gt;short overview&lt;/a&gt; of
+why it might be useful for your research.&lt;/p&gt;
+&lt;p&gt;To use the Cambridge maths site licence for paperpile, you will need
+to create a new google account that is linked to a @cam.ac.uk or
+a @maths.cam.ac.uk address. &lt;/p&gt;
+&lt;h3 id=&#34;steps&#34;&gt;Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Visit &lt;a href=&#34;https://accounts.google.com/SignUp?hl=en&#34;&gt;https://accounts.google.com/SignUp?hl=en&lt;/a&gt;
+and create a new account.  On the second line when it asks &amp;ldquo;Choose
+your username&amp;rdquo; ensure that you click the link underneath the box
+saying &amp;ldquo;I prefer to use my current email address&amp;rdquo; and instead type in
+your &lt;code&gt;crsid@cam.ac.uk&lt;/code&gt; address.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Authenticate the google account when you get the link in your maths
+email inbox.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visit paperpile.com using Chrome browser. In the top right of the
+window - Click &amp;ldquo;Sign in&amp;rdquo;, and sign in with your &lt;code&gt;@cam.ac.uk&lt;/code&gt; google
+account.  If you have not used paperpile before, it will ask you to
+install the Paperpile extension &amp;ndash; say yes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You should then be set up.&lt;/p&gt;
+&lt;p&gt;You can be logged into other tabs with your regular @gmail account,
+and paperpile buttons on those tabs will still work.&lt;/p&gt;
+&lt;h3 id=&#34;trial-ends-march-2019&#34;&gt;Trial ends March 2019&lt;/h3&gt;
+&lt;p&gt;Please note that this trial is for one year, until end of March 2019.
+This trial should give us enough time whether there is sufficient
+demand within the Maths faculty and University to commit to a
+longer-time licence agreement.  If you are a user from outside Maths,
+we would ask you to help us evaluate Paperpile, and consider asking
+your department to join any potential new licence in 2019.&lt;/p&gt;
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;As of November 2018, the Paperpile proxy for Cambridge should now work.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Why paperpile?</title>
+        <link>/2018/03/07/why-paperpile/</link>
+        <pubDate>Wed, 07 Mar 2018 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2018/03/07/why-paperpile/</guid>
+        <description>&lt;p&gt;Journals today mostly publish our academic papers as PDFs.  This is
+great for us, as we can easily store most of our papers locally on our
+harddrives, rather than relying on a physical copy of each paper.
+However, managing such a collection of PDFs quickly becomes
+cumbersome.  Many software solutions are available for managing your
+PDFs.  One application that I&amp;rsquo;ve found very useful is
+&lt;a href=&#34;http://paperpile.com/welcome&#34;&gt;Paperpile&lt;/a&gt;.  There is a snappy 2
+1/2 minute video that shows it in action:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0r80ecyGlCw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;When visiting a web page containing a paper (e.g. from a journal web
+page), you can click on the Paperpile button in your browser to
+download the paper and its metadata.  It also adds Paperpile import
+buttons on sites like &lt;a href=&#34;http://scholar.google.co.uk&#34;&gt;Google
+Scholar&lt;/a&gt;, &lt;a href=&#34;http://arxiv.org&#34;&gt;arXiv&lt;/a&gt; and
+&lt;a href=&#34;http://pubmed.gov&#34;&gt;PubMed&lt;/a&gt; to easily import data.  Below
+is partial output from arXiv &amp;ndash; at the end of each &lt;em&gt;Subjects&lt;/em&gt;
+line you should see the &amp;ldquo;+ Paperpile&amp;rdquo; button (circled here in red) that you can click to add
+the article to your collection.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/arxiv-paperpile.png&#34; alt=&#34;Paperpile buttons on arXiv&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Here are some of the reasons I like paperpile; I also mention some
+current limitations at the end.&lt;/p&gt;
+&lt;h4 id=&#34;bibtex-support&#34;&gt;BibTeX support&lt;/h4&gt;
+&lt;p&gt;Paperpile has first class support for BibTeX references.  If you use
+LaTeX, you will never need to hand-write a BibTeX reference again.
+Here is an example BibTeX reference exported from Paperpile:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;My workflow is that I create a Paperpile tag for each paper that I&amp;rsquo;m
+writing, and mark the papers I&amp;rsquo;m referencing with that tag.  I can
+then easily select all the papers with that tag, and export all those
+references as BibTeX entries, and copy them into my BibTeX file.&lt;/p&gt;
+&lt;p&gt;By default, the tag used for a BibTeX reference is automatically
+generated, e.g. &lt;em&gt;Damani2011-99e&lt;/em&gt; above.  The &lt;em&gt;-99e&lt;/em&gt; suffix is a
+hashcode, which I used to find a bit irritating as you can&amp;rsquo;t remember
+them, but now I simply use my latex editor (Emacs) to look up the
+BibTeX keys anyway.  If you prefer your own BibTeX tags, you can edit
+the metadata.&lt;/p&gt;
+&lt;p&gt;If you are not a BibTeX user, then you might find the Google Docs
+plugin useful for writing papers with references.  (See below for Word
+users&amp;hellip;)&lt;/p&gt;
+&lt;h4 id=&#34;sharing-papers-with-others-is-easy&#34;&gt;Sharing papers with others is easy&lt;/h4&gt;
+&lt;p&gt;Before using Paperpile, if I wanted to share a paper with a colleague,
+I&amp;rsquo;d email it to them.  Works fine, but then your inbox gets clogged up
+with lots of emails containing large PDF attachments.  Paperpile
+allows you to share links to papers.  E.g. here is a link for the
+&lt;a href=&#34;https://paperpile.com/app/p/cd0a745f-a4ff-0cb7-b457-0a2a3e7b309e&#34;&gt;Damani et
+al. paper&lt;/a&gt;.
+Furthemore, this extends to sharing multiple papers at once.  For
+example, if you organise papers into folders, you can freely share the
+PDFs in a folder by sharing the link to that folder.  Here is an
+example of a &lt;a href=&#34;https://paperpile.com/shared/toXwJV&#34;&gt;folder link&lt;/a&gt; that I
+created to accompany a tutorial.  This is an excellent resource for
+sharing papers.  You must however actively create a link to share your
+papers &amp;ndash; by default, everything is private to your account.  Papers
+can be shared with named individuals or to anyone who has the
+corresponding link.&lt;/p&gt;
+&lt;h4 id=&#34;it-tidies-your-pdf-collection&#34;&gt;It tidies your pdf collection&lt;/h4&gt;
+&lt;p&gt;If you have a large collection of PDFs living in some folder on your
+laptop, you can import them directly into Paperpile.  It does a very
+good job at extracting the metadata from PDFs (but of course this is
+dependent on the quality of the PDF).  Your PDFs live on Google drive
+and organises them into folders, one per letter of the alphabet,
+such as &lt;strong&gt;Google Drive / Paperpile / AllPapers / D / Damani et al. 2011 -
+Age-related alterations in the dynamic behaviour of microglia.pdf&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So, even if nothing else you can get your PDFs reorganized.  (To sync
+this google drive on your laptop, use &lt;a href=&#34;https://www.google.co.uk/drive/&#34;&gt;Google
+Drive&lt;/a&gt;.)&lt;/p&gt;
+&lt;h4 id=&#34;it-is-very-slick-at-what-it-does&#34;&gt;It is very slick at what it does&lt;/h4&gt;
+&lt;p&gt;Other reference managers are available, e.g. zotero, but I&amp;rsquo;ve found
+paperpile to be incredibly efficient at organising papers.  The
+interface has been designed with care.  The Paperpile team are
+efficient at answering queries, and there is a useful
+&lt;a href=&#34;http://forum.paperpile.com&#34;&gt;forum&lt;/a&gt; for discussions and requests.&lt;/p&gt;
+&lt;h3 id=&#34;why-not-paperpile&#34;&gt;Why not paperpile?&lt;/h3&gt;
+&lt;p&gt;Paperpile isn&amp;rsquo;t perfect (yet).  Some reasons that you may need to
+consider:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;It does not yet have a Word plugin, so you can&amp;rsquo;t seamlessly write
+manuscripts in Word and include references from paperpile.  I
+believe there is a Word plug-in coming soon though, which hopefully
+will look something like the Google docs plugin.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You must use the &lt;a href=&#34;https://www.google.co.uk/chrome/&#34;&gt;Google Chrome&lt;/a&gt;
+web browser to access Paperpile.  Support for android and ipad
+devices are also in the works.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cost.  Paperpile costs about $3/month, which although not
+expensive, is more than some of the competition:
+&lt;a href=&#34;http://zotero.org&#34;&gt;zotero&lt;/a&gt; and Mendeley are free.  Individuals can
+get a free one-month trial to evaluate it.  Note however that members of the
+[Mathematics Faculty can use our site licence]
+(/2018/04/03/paperpile-at-cambridge-maths-faculty/).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You need to be online to use it.  (In this case I recommed you use
+Google Drive to ensure you have the Paperpile folder synced to your
+laptop so that you can always read your papers.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Paperpile is an excellent tool for managing your academic references.&lt;/p&gt;
+&lt;h3 id=&#34;for-cambridge-readers&#34;&gt;For Cambridge readers&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.maths.cam.ac.uk&#34;&gt;Maths faculty&lt;/a&gt; at the University of
+Cambridge are trialing a &lt;a href=&#34;/2018/04/03/paperpile-at-cambridge-maths-faculty/&#34;&gt;site licence&lt;/a&gt; for a year to assess its utility.  We would
+encourage other departments around Cambridge to consider joining in.
+Please contact &lt;a href=&#34;http://sje30.github.io&#34;&gt;me&lt;/a&gt; for further details.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>A brief introduction to reproducible research and open science</title>
+        <link>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</link>
+        <pubDate>Fri, 19 Jan 2018 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2018/01/19/a-brief-introduction-to-reproducible-research-and-open-science/</guid>
+        <description>&lt;p&gt;[The following was written for the &lt;a href=&#34;http://www.bna.org.uk&#34;&gt;British Neuroscience Association&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;A brief introduction to reproducible research and open science&lt;/p&gt;
+&lt;p&gt;At first glance, it might seem odd that you would need to prefix the
+term &amp;ldquo;research&amp;rdquo; with the qualifier &amp;ldquo;reproducible&amp;rdquo;.  Surely, once you
+have a paper in your hands, you have all the details in front of you
+to reproduce someone else&amp;rsquo;s work?  That&amp;rsquo;s certainly the theory when
+writing the paper, but it&amp;rsquo;s often not the practice&amp;hellip;  Since 2004
+we&amp;rsquo;ve set a problem for our masters students to reproduce key results
+from a paper within computational biology.  Even though students
+carefully select a paper where the methods section seems
+comprehensive, and all the experimental data are available, they
+invariably find that many details are missing that preclude them from
+reproducing key figures or results.  Many papers have been published
+on this failure to reproduce [e.g. 2], commonly termed the
+&amp;ldquo;reproducibility crisis&amp;rdquo; [1].&lt;/p&gt;
+&lt;p&gt;So, what might reproducible research entail?  The definition can vary
+from group to group, but my interpretation is that when publishing
+results, labs should also provide all relevant datasets and methodology
+for transforming data into results.  This means providing the
+spreadsheets or computational scripts to reproduce analysis.  In turn,
+this means that researchers should move away from &amp;ldquo;point and click&amp;rdquo;
+analysis methodologies (doing a t-test in Excel) towards computer
+scripts (such as R, matlab or python) so that others can re-run the
+same routines.&lt;/p&gt;
+&lt;p&gt;So, this brings us naturally to the second term, open science.  The
+competitive nature (for limited funding, jobs, and &amp;ldquo;high impact&amp;rdquo;
+publications) of science means that there is a natural tendency to
+withold key datasets or analysis technologies: why give away your
+results to your competitors?  An alternative view gaining prominence
+in recent years is that by sharing our resources, we allow others to
+build on our work and science as a whole should benefit.  By being an
+open scientist, there are increased chances of making your work
+reproducible.&lt;/p&gt;
+&lt;p&gt;Being an open scientist may seem naïve and altruistic, but there are
+selfish reasons for sharing your research [3].  Many
+funding agencies now require data management plans for sharing of data
+post publication, and journals are increasingly asking for data and
+methods.  My optimistic hope is that in 10 years we might be able to
+drop the qualifier &amp;ldquo;open&amp;rdquo; and instead talk again simply about science.&lt;/p&gt;
+&lt;p&gt;Top tips for becoming an open scientist.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Read the guidelines in [3] and think if they would apply to you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Read about peoples&amp;rsquo; experiences such as &lt;a href=&#34;https://www.theguardian.com/higher-education-network/blog/2014/aug/22/university-research-publish-open-access-journal&#34;&gt;Erin McKiernan&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Do experiments?  Try writing a registered report before doing the
+experiments to reduce publication bias.
+&lt;a href=&#34;https://www.nature.com/articles/s41562-016-0034&#34;&gt;https://www.nature.com/articles/s41562-016-0034&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Talk to your local library to see what services they can offer to
+help archive and share your research.  Find a local community of
+like-minded scientists!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn how to code, rather than using Excel, for your data
+analysis.  e.g. &lt;a href=&#34;http://www.datacarpentry.org&#34;&gt;http://www.datacarpentry.org&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Comments?  Send them to me via twitter &lt;a href=&#34;https://twitter.com/StephenEglen&#34;&gt;@StephenEglen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;References&lt;/p&gt;
+&lt;p&gt;[1]:  Baker M (2016) 1,500 scientists lift the lid on reproducibility. Nature 533:452–454.  &lt;a href=&#34;http://dx.doi.org/10.1038/533452a&#34;&gt;http://dx.doi.org/10.1038/533452a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Ioannidis JPA (2005) Why most published research findings are
+false. PLoS Med 2:e124. &lt;a href=&#34;https://doi.org/10.1371/journal.pmed.0020124&#34;&gt;https://doi.org/10.1371/journal.pmed.0020124&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] Markowetz F (2015) Five selfish reasons to work reproducibly. Genome
+Biol 16:274.
+&lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7&#34;&gt;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>An interactive introduction to computational neuroscience</title>
+        <link>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</link>
+        <pubDate>Thu, 16 Nov 2017 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2017/11/16/an-interactive-introduction-to-computational-neuroscience/</guid>
+        <description>&lt;p&gt;For a few years I&amp;rsquo;ve given a workshop, a two hour introduction to
+computational neuroscience, for masters students.  This has covered
+the Hodgkin-Huxley model of action potential generation, reduced
+models, and simple small-networks.  Most of the content was previously
+matlab code, provided by other researchers, most notably &lt;a href=&#34;http://cvr.yorku.ca/webpages/wilson.htm&#34;&gt;Hugh
+Wilson&lt;/a&gt; and &lt;a href=&#34;https://www.izhikevich.org/&#34;&gt;Eugene
+Izhikevich&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Over the last few months, we (mostly Derek Fulton and Paraskevi
+Mylona) have converted this matlab code to the
+&lt;a href=&#34;http://julialang.org&#34;&gt;Julia&lt;/a&gt; programming language.  This was partly
+to evaluate Julia as a replacement for matlab (and the signs so far
+are very encouraging) and also to evaluate recent cloud-based
+infrastructure for running notebooks.  At the eleventh hour before
+this year&amp;rsquo;s workshop I decided to switch to Julia for running the
+workshop.  Thankfully, on the day all the technology worked perfectly.&lt;/p&gt;
+&lt;p&gt;To try the workshop for yourself, simply visit the following link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mybinder.org/v2/gh/sje30/julia-python/master?filepath=Introduction%20to%20Computational%20Neuroscience.ipynb&#34;&gt;&lt;img src=&#34;https://mybinder.org/badge.svg&#34; alt=&#34;Binder&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This should launch an interactive Jupyter notebook, where all the
+graphs can be dynamically regenerated.  To try this, first go to the
+&lt;em&gt;Cell menu -&amp;gt; All Output -&amp;gt; Clear&lt;/em&gt; to clear al the items and then
+&lt;em&gt;Cell -&amp;gt; Run All&lt;/em&gt; to re-generate them.  (The first time you regenrate,
+it may take a while as it needs to load various packages.)&lt;/p&gt;
+&lt;p&gt;I think this technology is a great way of providing resources.
+Students do not need to load any software onto their local machine;
+all you need is a modern web browser and an internet connection.  No
+more matlab licenses required! It also introduces students to the
+notion of reproducible documents: live figures that can be
+regenerated, rather than static figures.&lt;/p&gt;
+&lt;p&gt;The tutorial is a bit rough around the edges, and not really
+appropriate for independent study, but I intend to develop more
+resources in this direction, and feedback welcome!&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Towards standard practice for sharing of code and data in neuroscience</title>
+        <link>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</link>
+        <pubDate>Thu, 25 May 2017 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2017/05/25/towards-standard-practice-for-sharing-of-code-and-data-in-neuroscience/</guid>
+        <description>&lt;p&gt;Scientists are increasingly dependent on computational techniques to
+analyse large volumes of data.  These computational methods are often
+tailored to the particular analysis in mind, and as such are valuable
+research outputs.  Furthermore, unlike experimental techniques,
+computational methods can be easily shared.  However, at least in
+neuroscience, computational methods are not routinely shared upon
+publication of associated manuscripts.&lt;/p&gt;
+&lt;p&gt;To improve this situation, we have worked with the editors of &lt;em&gt;Nature
+Neuroscience&lt;/em&gt; to establish a pilot &lt;em&gt;code review&lt;/em&gt; project.  Once papers
+have been  approved in principle for publication, authors can opt-in to
+the code review.  The code (and data) will be checked to see if
+independent reviewers can reproduce key findings of the paper.  The
+details of the code review process are outlined in the
+&lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;editorial&lt;/a&gt;, and we have written a &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html&#34;&gt;commentary&lt;/a&gt; to describe
+good practice for sharing of code and data.  For example, we suggest
+the minimum requirement for sharing is that sufficient code and data
+be provided to regenerate a key figure/table of the paper.  This
+follows the well-established requirements for submitting code to
+&lt;a href=&#34;http://modeldb.yale.edu&#34;&gt;modeldb&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Although our current guidelines are focused around code and data in
+Neuroscience, most of our suggestions apply across many scientific
+disciplines.  Just as journals (and funders) now require the sharing
+of data underlying a research paper, we believe the underlying code
+should also be freely shared.  We hope that other journals
+will adapt appropriate policies to allow for the long-term sharing and
+reuse of scientific code.  By sharing the code and data relating to
+research articles, communities will be able to reproduce and extend
+upon each other&amp;rsquo;s work.  This should lead to more robust scientific
+results and reduce duplication of effort.&lt;/p&gt;
+&lt;h3 id=&#34;acknowledgements&#34;&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;This project emerged from discussions at a workshop to encourage
+sharing in neuroscience, held in Cambridge, December 2014.  It was
+financially supported and organized by the &lt;a href=&#34;http://www.incf.org&#34;&gt;International
+Neuroinformatics Coordinating Facility&lt;/a&gt;,
+with additional support from the
+&lt;a href=&#34;http://www.software.ac.uk&#34;&gt;Software Sustainability Institute&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+&lt;p&gt;[1] Extending transparency to code. Nat Neurosci 20:761–761.
+&lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4579.html&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] Eglen SJ, Marwick B, Halchenko YO, Hanke M, Sufi S, Gleeson P,
+Angus Silver R, Davison AP, Lanyon L, Abrams M, Wachtler T, Willshaw
+DJ, Pouzat C, Poline J-B (2017) Toward standard practices for sharing
+computer code and programs in neuroscience. Nat Neurosci 20:770–773.  &lt;a href=&#34;http://www.nature.com/neuro/journal/v20/n6/full/nn.4550.html&#34;&gt;(Article)&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>A Plain Markdown Post</title>
+        <link>/2016/12/30/a-plain-markdown-post/</link>
+        <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2016/12/30/a-plain-markdown-post/</guid>
+        <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;
+&lt;li&gt;A plain Markdown post is rendered through &lt;a href=&#34;https://gohugo.io/overview/configuration/&#34;&gt;Blackfriday&lt;/a&gt;, and an R Markdown document is compiled by &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;&lt;strong&gt;rmarkdown&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write an R package.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write a book.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Profit!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (&lt;a href=&#34;https://github.com/yihui/hugo-lithium-theme&#34;&gt;hugo-lithium-theme&lt;/a&gt;) but there is a caveat for plain Markdown posts: you have to include math expressions in a pair of backticks (inline: &lt;code&gt;`$ $`&lt;/code&gt;; display style: &lt;code&gt;`$$ $$`&lt;/code&gt;), e.g., &lt;code&gt;$S_n = \sum_{i=1}^n X_i$&lt;/code&gt;.^[This is because we have to protect the math expressions from being interpreted as Markdown. You may not need the backticks if your math expression does not contain any special Markdown syntax such as underscores or asterisks, but it is always a safer choice to use backticks. When you happen to have a pair of literal dollar signs inside the same element, you can escape one dollar sign, e.g., &lt;code&gt;\$50 and $100&lt;/code&gt; renders &amp;ldquo;$50 and $100&amp;rdquo;.] For R Markdown posts, you do not need the backticks, because Pandoc can identify and process math expressions.&lt;/p&gt;
+&lt;p&gt;When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the &lt;code&gt;ext&lt;/code&gt; argument of the function &lt;code&gt;blogdown::new_post()&lt;/code&gt;, e.g.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;blogdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;new_post&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Post Title&amp;#34;&lt;/span&gt;, ext &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.Rmd&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      </item>
+    
+      <item>
+        <title>Introduction to LaTeX</title>
+        <link>/2016/09/28/introduction-to-latex/</link>
+        <pubDate>Wed, 28 Sep 2016 14:48:09 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2016/09/28/introduction-to-latex/</guid>
+        <description>&lt;p&gt;Every year I give a one-hour lecture introducting LaTeX to mathematics
+undergraduates and Masters students.  After the lecture, I normally
+host a lab session for students to work through some material.&lt;/p&gt;
+&lt;h1 id=&#34;slides&#34;&gt;Slides&lt;/h1&gt;
+&lt;p&gt;The
+&lt;a href=&#34;https://github.com/sje30/latex101/blob/master/latex101.pdf&#34;&gt;slides&lt;/a&gt;
+for the talk are, of-course, written in LaTeX using the
+&lt;a href=&#34;https://sourceforge.net/projects/latex-beamer/&#34;&gt;Beamer&lt;/a&gt; package.  The
+source code for the files are available on
+&lt;a href=&#34;http://github.com/sje30/latex101&#34;&gt;github&lt;/a&gt;.  (New for 2016 is that
+I&amp;rsquo;ve switch to the &lt;em&gt;sourcesanspro&lt;/em&gt; font.)&lt;/p&gt;
+&lt;h1 id=&#34;lab-material&#34;&gt;Lab material&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ve written a short template file for students to adopt when writing
+their own reports.  The main source file is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.tex&#34;&gt;intro.tex&lt;/a&gt; and the
+corresponding output is &lt;a href=&#34;https://github.com/sje30/texintro/blob/master/intro.pdf&#34;&gt;intro.pdf&lt;/a&gt;.  To recompile the document yourself,
+you will need to download the whole directory.  The easiest way to do
+this is to do:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;git clone https://github.com/sje30/texintro
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Quantitative Analysis of Neuroanatomy ebook</title>
+        <link>/2016/03/22/quantitative-analysis-of-neuroanatomy-ebook/</link>
+        <pubDate>Tue, 22 Mar 2016 00:00:00 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2016/03/22/quantitative-analysis-of-neuroanatomy-ebook/</guid>
+        <description>&lt;p&gt;On behalf of all the editors, I am pleased to announce the release of
+our special issue on the
+&lt;a href=&#34;http://journal.frontiersin.org/researchtopic/2028/quantitative-analysis-of-neuroanatomy&#34;&gt;Quantitative Analysis of Neuroanatomy&lt;/a&gt;.
+All articles have been published in &lt;a href=&#34;http://journal.frontiersin.org/journal/neuroanatomy&#34;&gt;Frontiers in Neuroanatomy&lt;/a&gt;.
+As of March 2016, all papers are now freely available as an Ebook
+either in PDF or EPUB format.&lt;/p&gt;
+&lt;p&gt;The aim of this Research Topic is to examine theoretical and
+experimental work directed at a detailed and comprehensive
+quantitative understanding of neuroanatomy. Integrating such knowledge
+with functional data should provide a more complete understanding of
+how the nervous system in different animal species is organized to
+generate appropriate behaviour.&lt;/p&gt;
+&lt;h4 id=&#34;table-of-contents&#34;&gt;Table of contents&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Editorial: Quantitative Analysis of Neuroanatomy&lt;/em&gt;
+Julian M. L. Budd, Hermann Cuntz, Stephen J. Eglen and Patrik
+Krieger. &lt;a href=&#34;http://www.frontiersin.org/books/Quantitative_Analysis_of_Neuroanatomy/829&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A comparison of manual neuronal reconstruction from biocytin histology or
+2-photon imaging: morphometry and computer modeling&lt;/em&gt;
+Arne V. Blackman, Stefan Grabuschnig, Robert Legenstein and P. Jesper
+Sjöström. &lt;a href=&#34;http://dx.doi.org:10.3389/fnana.2014.00065&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Automated computation of arbor densities: a step toward identifying
+neuronal cell types&lt;/em&gt; Uygar Sümbül, Aleksandar Zlateski, Ashwin
+Vishwanathan, Richard H. Masland and H. Sebastian
+Seung. &lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00139&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Functional connectivity estimation over large networks at cellular resolution
+based on electrophysiological recordings and structural prior&lt;/em&gt;
+Simona Ullo, Thierry R. Nieus, Diego Sona, Alessandro Maccione, Luca Berdondini
+and Vittorio Murino.  &lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00137&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Axonal and dendritic density field estimation from incomplete single-slice
+neuronal reconstructions&lt;/em&gt;
+Jaap van Pelt, Arjen van Ooyen and Harry B. M. Uylings.
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00054&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Slicing, sampling, and distance-dependent effects affect network measures in
+simulated cortical circuit structures&lt;/em&gt;
+Daniel C. Miner and Jochen Triesch
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00125&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A workflow for the automatic segmentation of organelles in electron
+microscopy image stacks&lt;/em&gt;
+Alex J. Perez, Mojtaba Seyedhosseini, Thomas J. Deerinck, Eric A. Bushong,
+Satchidananda Panda, Tolga Tasdizen and Mark H. Ellisman.
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00126&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Three-dimensional distribution of cortical synapses: a replicated
+point pattern based analysis&lt;/em&gt;
+Laura Anton-Sanchez, Concha Bielza, Angel Merchán-Pérez, José-Rodrigo Rodríguez,
+Javier DeFelipe and Pedro Larrañaga.
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00085&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The patterning of retinal horizontal cells: normalizing the regularity index
+enhances the detection of genomic linkage&lt;/em&gt;
+Patrick W. Keeley and Benjamin E. Reese
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00113&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Statistical analysis and data mining of digital reconstructions of dendritic
+morphologies&lt;/em&gt;
+Sridevi Polavaram, Todd A. Gillette, Ruchi Parekh and Giorgio A. Ascoli
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00138&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Towards a “canonical” agranular cortical microcircuit&lt;/em&gt;
+Sarah F. Beul and Claus C. Hilgetag
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00165&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Generation of dense statistical connectomes from sparse morphological data&lt;/em&gt;
+Robert Egger, Vincent J. Dercksen, Daniel Udvary, Hans-Christian Hege and
+Marcel Oberlaender
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00129&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Context-aware modeling of neuronal morphologies&lt;/em&gt;
+Benjamin Torben-Nielsen and Erik De Schutter
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00092&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The effects of neuron morphology on graph theoretic measures of network
+connectivity: the analysis of a two-level statistical model&lt;/em&gt;
+Jugoslava Aćimović, Tuomo Mäki-Marttunen and Marja-Leena Linne
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2015.00076&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Homeostatic structural plasticity can account for topology changes following
+deafferentation and focal stroke&lt;/em&gt;
+Markus Butz, Ines D. Steenbuck and Arjen van Ooyen
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00115&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Parametric Anatomical Modeling: a method for modeling the anatomical layout
+of neurons and their projections&lt;/em&gt;
+Martin Pyka, Sebastian Klatt and Sen Cheng
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00091&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Saltatory conduction in unmyelinated axons: clustering of Na&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt; channels on
+lipid rafts enables micro-saltatory conduction in C-fibers&lt;/em&gt;
+Ali Neishabouri and A. Aldo Faisal
+&lt;a href=&#34;http://dx.doi.org/10.3389/fnana.2014.00109&#34;&gt;Paper&lt;/a&gt;&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>maps2015 workshop</title>
+        <link>/2016/03/13/maps2015-workshop/</link>
+        <pubDate>Sun, 13 Mar 2016 17:45:42 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2016/03/13/maps2015-workshop/</guid>
+        <description>&lt;p&gt;On 7-9 December 2015, we hosted &lt;a href=&#34;http://maps2015.org&#34;&gt;maps2015&lt;/a&gt; in
+Strasbourg, France.  The primary aim of the meeting was to bring
+together the two communities of theoreticians and experimentalists
+working on related problems in developmental neurobiology.  This was
+the second meeting that we have hosted on this topic, following on
+from &lt;a href=&#34;http://maps2014.org&#34;&gt;maps2014.org&lt;/a&gt; in Edinburgh.  This year the
+programme took a slightly wider scope: although most talks were
+related to the development and order in brain maps, we also had
+several interesting talks including mouse and zebrafish behaviour.  It
+was also notable that several speakers chose to share unpublished data
+&amp;ndash; something that doesn&amp;rsquo;t tend to happen in larger meetings.  The
+meeting brought together several research groups for the first team,
+and has already resulted in several new collaborations across the
+theoretical&amp;ndash;experimental divide.&lt;/p&gt;
+&lt;h4 id=&#34;posters&#34;&gt;Posters&lt;/h4&gt;
+&lt;p&gt;Twenty-three posters were presented at the meeting.  On the second
+evening of the meeting we ran a ``lightning session&amp;rsquo;&amp;rsquo; where each
+poster presenter was given one minute to talk about their poster.
+This was regarded as a great innovation, both by the audience and the
+poster presenters, and as such we would like to repeat it in future
+meetings.&lt;/p&gt;
+&lt;h4 id=&#34;maps2017org-&#34;&gt;Maps2017.org ?&lt;/h4&gt;
+&lt;p&gt;At the closing discussion session, there was significant support for a
+future meeting in this area, as no other international meeting
+currently brought together these two communities.  Any volunteers to
+host the next meeting?&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>first</title>
+        <link>/2016/03/02/first/</link>
+        <pubDate>Wed, 02 Mar 2016 14:48:09 UTC</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2016/03/02/first/</guid>
+        <description>&lt;p&gt;Content of the file goes here&lt;/p&gt;
+&lt;p&gt;here is a very long para
+here is a very long para
+here is a very long para
+here is a very long para
+here is a very long para
+here is a very long para
+here is a very long para&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this is a quote&lt;/p&gt;&lt;/blockquote&gt;
+&lt;pre&gt;&lt;code&gt;verbatim
+verbatim
+&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;Right&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Left&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Center&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;Long Content To&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Spread Out the Width&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Of the Table To See Alignment&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;Right&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Left&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Center&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;a&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;b&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;c&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Hello R Markdown</title>
+        <link>/2015/07/23/hello-r-markdown/</link>
+        <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2015/07/23/hello-r-markdown/</guid>
+        <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;math-here&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;math here&lt;/h1&gt;
+&lt;p&gt;You can write mathematics, of course, but the syntax will be a bit different from R Markdown. Here’s some inline math: &lt;span class=&#34;math inline&#34;&gt;\(\pi/2 \approx 1.57\)&lt;/span&gt;. There is displayed math as well:&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;math display&#34;&gt;\[ \sum_{i=1}^{n} i = \frac{n(n+1)}{2}.\]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Here’s the source …&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;You can write mathematics, of course, but the syntax will be a bit different from R Markdown.  Here&amp;#39;s some inline math:  $$ \pi/2 \approx 1.57 $$.  There is displayed math as well:
+
+$$ \sum_{i=1}^{n} i = \frac{n(n+1)}{2}.$$
+
+Here&amp;#39;s the source ...&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Lorem Ipsum</title>
+        <link>/2015/01/01/lorem-ipsum/</link>
+        <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+        <author>Mark Otto</author>
+        <guid>/2015/01/01/lorem-ipsum/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+      </item>
+    
+
   </channel>
 </rss>
