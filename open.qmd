@@ -4,3 +4,9 @@ title: "Open research"
 
 
 Links to open research projects.
+
+# Recent talks
+
+[Rights retention](talks/leeds-eglen25.html)
+
+[CODECHECK](talks/codecheck2024-02.html)
