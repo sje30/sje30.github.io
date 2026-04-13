@@ -27,4 +27,7 @@ preview.
 The command "quarto publish" does the render and commit to github.
 
 
+```sh
+quarto render
+```
 

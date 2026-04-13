@@ -9,4 +9,4 @@ Links to open research projects.
 
 [Rights retention](talks/leeds-eglen25.html)
 
-[CODECHECK 2026](talks/codecheck2026-02.html)
+[CODECHECK 2026 Munich](talks/codecheck26-04.html)
